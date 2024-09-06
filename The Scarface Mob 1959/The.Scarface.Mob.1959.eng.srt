@@ -1,0 +1,6458 @@
+﻿1
+00:01:29,506 --> 00:01:31,549
+(Narrator) 'Chicago, 1929.
+
+2
+00:01:31,675 --> 00:01:33,593
+'By law, the country was dry.
+
+3
+00:01:33,719 --> 00:01:37,346
+'Through connivance with AI Capone,
+Chicago was wet.
+
+4
+00:01:37,472 --> 00:01:42,101
+'Even now, while AI Capone served
+a short term for carrying a gun in Philadelphia,
+
+5
+00:01:42,227 --> 00:01:44,520
+'the organization functioned smoothly.
+
+6
+00:01:44,646 --> 00:01:48,482
+'Helped by corrupt officials
+and a public that was indifferent.
+
+7
+00:01:48,609 --> 00:01:51,360
+'Social headquarters of the mob
+was the Café Montmartre.
+
+8
+00:01:51,486 --> 00:01:54,780
+'This night,
+the night of June 17th, 1929,
+
+9
+00:01:54,906 --> 00:01:57,158
+'the gang was to encounter
+its chief adversary.
+
+10
+00:01:57,284 --> 00:01:59,660
+'A prohibition agent
+named Eliot Ness.'
+
+11
+00:02:40,744 --> 00:02:42,161
+Federal raid!
+Stay where you are!
+
+12
+00:02:51,755 --> 00:02:53,089
+Plain seltzer.
+
+13
+00:02:53,215 --> 00:02:55,883
+My goodness, you don't think
+I'd be drinking hooch.
+
+14
+00:02:58,679 --> 00:03:00,471
+Not a thing yet.
+
+15
+00:03:01,139 --> 00:03:03,599
+(Narrator) 'Coming down the stairs
+was the man who ran the mob
+
+16
+00:03:03,725 --> 00:03:05,393
+'while Capone was in jail.
+
+17
+00:03:05,519 --> 00:03:08,104
+'Frank Nitti, the "Enforcer".'
+
+18
+00:03:09,147 --> 00:03:10,606
+Hello, boys.
+
+19
+00:03:10,732 --> 00:03:13,025
+You got a search warrant?
+
+20
+00:03:15,362 --> 00:03:18,906
+- These friends of yours, Mr. Nitti?
+- Get lost.
+
+21
+00:03:22,160 --> 00:03:25,329
+This is a private social club.
+It's open to members and their guests.
+
+22
+00:03:25,455 --> 00:03:26,872
+(Glass shattering)
+
+23
+00:03:26,998 --> 00:03:28,749
+Tell him, Counselor.
+
+24
+00:03:29,501 --> 00:03:33,254
+If you cause any damage to the premises,
+I'll have to file suit on behalf of Mr. Nitti.
+
+25
+00:03:33,380 --> 00:03:35,965
+- Thank you, Counselor.
+- I thought you should be advised.
+
+26
+00:03:39,302 --> 00:03:40,761
+- Find anything?
+- Not a drop.
+
+27
+00:03:40,887 --> 00:03:42,805
+They must've cleaned up this place
+with blotting paper.
+
+28
+00:03:42,931 --> 00:03:44,807
+Who could've tipped them off?
+
+29
+00:03:46,435 --> 00:03:48,436
+Next time,
+let us know you're coming.
+
+30
+00:03:48,562 --> 00:03:50,521
+(Laughing)
+
+31
+00:03:52,649 --> 00:03:54,608
+OK, we might as well go.
+
+32
+00:04:04,077 --> 00:04:05,661
+Beat it.
+
+33
+00:04:07,038 --> 00:04:09,832
+- Now, what was the payoff?
+- One grand.
+
+34
+00:04:09,958 --> 00:04:11,542
+A grand?
+
+35
+00:04:11,668 --> 00:04:14,044
+Stupido!
+You could have bought it for 500.
+
+36
+00:04:18,633 --> 00:04:22,219
+(Narrator) 'On June 24th, one week
+after the unsuccessful raid on the Montmartre,
+
+37
+00:04:22,345 --> 00:04:24,346
+'Eliot Ness was summoned
+to the Chicago office
+
+38
+00:04:24,473 --> 00:04:27,600
+'of the new United States District Attorney,
+Beecher Asbury.
+
+39
+00:04:27,726 --> 00:04:30,019
+'The appointment
+was for 3:00 in the afternoon.'
+
+40
+00:04:30,145 --> 00:04:32,354
+Now, this is the Capone setup.
+
+41
+00:04:32,481 --> 00:04:37,735
+$120 million a year pouring in
+from beer, booze, women and gambling.
+
+42
+00:04:37,861 --> 00:04:39,528
+Mainly from beer and booze.
+
+43
+00:04:39,654 --> 00:04:42,948
+Thirty-five million’s for protection
+being paid out each year.
+
+44
+00:04:43,784 --> 00:04:45,701
+Now, before coming to Chicago,
+
+45
+00:04:45,827 --> 00:04:49,079
+I conferred with President Hoover
+and the Attorney General.
+
+46
+00:04:49,206 --> 00:04:52,333
+We decided there were two ways
+of getting Capone.
+
+47
+00:04:52,459 --> 00:04:55,503
+One is to gather data to convict him
+of income tax evasion,
+
+48
+00:04:55,629 --> 00:04:58,297
+and the other is to close down
+his breweries and distilleries
+
+49
+00:04:58,423 --> 00:05:01,467
+and make it impossible for him
+to continue paying graft.
+
+50
+00:05:01,593 --> 00:05:03,469
+Now, do you have any ideas
+on that?
+
+51
+00:05:04,262 --> 00:05:06,722
+- Yes, I do.
+- Well?
+
+52
+00:05:06,848 --> 00:05:08,599
+We have 300 agents
+in the Chicago district,
+
+53
+00:05:08,725 --> 00:05:11,060
+and the mob still has breweries
+all over the city.
+
+54
+00:05:11,186 --> 00:05:14,772
+Even run their beer trucks
+right through the Loop. Why?
+
+55
+00:05:14,898 --> 00:05:17,024
+Because out of 300 men,
+some can be bought.
+
+56
+00:05:17,150 --> 00:05:18,692
+All you have to buy is a few men.
+
+57
+00:05:24,324 --> 00:05:26,325
+What if you have a special squad?
+
+58
+00:05:26,451 --> 00:05:29,745
+Small, operating on its own.
+Every man thoroughly investigated.
+
+59
+00:05:29,871 --> 00:05:32,081
+Brought in from all parts
+of the country.
+
+60
+00:05:32,207 --> 00:05:35,835
+Men who'll spit on Capone's graft.
+Just a few he can't buy.
+
+61
+00:05:35,961 --> 00:05:39,255
+- You think you can find these men?
+- I think so.
+
+62
+00:05:40,715 --> 00:05:43,467
+Sad part is, I can't be sure.
+
+63
+00:05:43,593 --> 00:05:45,845
+Well, you're going to start looking
+for them.
+
+64
+00:05:50,475 --> 00:05:54,019
+(Narrator) 'On June 28th, 1929,
+Eliot Ness arrived in Washington.
+
+65
+00:05:54,145 --> 00:05:58,732
+'He had full access to Prohibition Bureau files
+stored in the Treasury building.
+
+66
+00:05:58,859 --> 00:06:04,154
+'A simple assignment, given all available data
+about every agent in the Bureau.
+
+67
+00:06:04,281 --> 00:06:06,407
+'Find six or seven
+out of these thousands
+
+68
+00:06:06,533 --> 00:06:10,870
+'who are reliable, courageous,
+dedicated, honest.
+
+69
+00:06:10,996 --> 00:06:13,914
+'Six or seven
+of the most honest men.
+
+70
+00:06:14,875 --> 00:06:17,710
+'At eight o’clock on the night
+of July 5th, 1929,
+
+71
+00:06:17,836 --> 00:06:20,588
+'the men of the special squad
+met for the first time.
+
+72
+00:06:20,714 --> 00:06:22,506
+'Six honest men.
+
+73
+00:06:22,632 --> 00:06:24,550
+'LaMarr Kane
+of the Richmond Bureau.
+
+74
+00:06:24,676 --> 00:06:27,553
+'Law school graduate.
+Married. Two children.
+
+75
+00:06:27,679 --> 00:06:30,139
+'Eric Hansen
+of the San Francisco Bureau.
+
+76
+00:06:30,265 --> 00:06:32,641
+'Former guard
+in San Quentin's death row.
+
+77
+00:06:32,767 --> 00:06:35,311
+'Martin Flaherty,
+former Boston police officer.
+
+78
+00:06:35,437 --> 00:06:37,354
+'Outstanding Bureau arrest record.
+
+79
+00:06:37,480 --> 00:06:40,691
+'New York's Jack Rossman,
+former telephone company lineman,
+
+80
+00:06:40,817 --> 00:06:42,568
+'now a wiretap expert.
+
+81
+00:06:42,694 --> 00:06:45,195
+'William Youngfellow,
+full-blooded Cherokee,
+
+82
+00:06:45,322 --> 00:06:47,531
+'second team all-American, 1924.
+
+83
+00:06:47,657 --> 00:06:51,410
+'Largely responsible for breakup
+of Oklahoma City booze ring.
+
+84
+00:06:51,536 --> 00:06:54,955
+'Tom Kopka, Scranton Bureau.
+Former Pennsylvania state trooper.
+
+85
+00:06:55,081 --> 00:06:56,540
+'World War I hero.
+
+86
+00:06:56,666 --> 00:06:58,876
+'Six honest men.'
+
+87
+00:06:59,002 --> 00:07:01,837
+Some of you may have
+to familiarize yourselves with Chicago.
+
+88
+00:07:01,963 --> 00:07:05,090
+(Narrator) 'And the seventh,
+Joe Fuselli.'
+
+89
+00:07:05,216 --> 00:07:07,051
+I'm sorry I'm late, Mr. Ness.
+
+90
+00:07:07,177 --> 00:07:08,677
+This is Joe Fuselli.
+
+91
+00:07:08,803 --> 00:07:12,097
+He's not with the Prohibition Bureau,
+but he'll be working with us.
+
+92
+00:07:12,223 --> 00:07:14,016
+Joe knows every street and alley
+in the city.
+
+93
+00:07:14,142 --> 00:07:17,102
+He's got the finest pair of driving hands
+in Chicago.
+
+94
+00:07:17,228 --> 00:07:20,147
+He also speaks the Sicilian
+and Neapolitan dialects.
+
+95
+00:07:21,608 --> 00:07:23,609
+Maybe you'd better tell them the rest,
+Mr. Ness.
+
+96
+00:07:25,362 --> 00:07:27,071
+Joe's an ex-convict.
+
+97
+00:07:27,197 --> 00:07:30,074
+He served five years in Joliet
+for armed robbery.
+
+98
+00:07:43,421 --> 00:07:46,131
+LaMarr Kane. Sit down, Joe.
+
+99
+00:07:46,257 --> 00:07:47,800
+This is Hansen.
+
+100
+00:07:47,926 --> 00:07:49,009
+- Flaherty.
+- Flaherty.
+
+101
+00:07:49,135 --> 00:07:50,469
+- Rossman.
+- Rossman.
+
+102
+00:07:50,595 --> 00:07:55,474
+(Narrator) 'Seven honest men
+against the underworld empire of AI Capone.'
+
+103
+00:08:00,939 --> 00:08:03,983
+- Oh, hello, boys.
+- Hello, Jake. Willy.
+
+104
+00:08:04,109 --> 00:08:05,192
+What's the word?
+
+105
+00:08:05,318 --> 00:08:08,070
+The federal boys have organized
+some kind of special squad
+
+106
+00:08:08,196 --> 00:08:10,572
+just to take care of our setups.
+
+107
+00:08:10,699 --> 00:08:13,492
+- No kidding?
+- This time I hear they mean it.
+
+108
+00:08:13,618 --> 00:08:17,037
+Well, we ain't gonna let them get away
+with that, are we?
+
+109
+00:08:17,163 --> 00:08:20,165
+Of course not, Frank.
+We'll have the boys take care of it.
+
+110
+00:08:31,511 --> 00:08:33,595
+There you are.
+
+111
+00:08:33,722 --> 00:08:36,223
+Here's those extra three grand
+to cover those cops on the North Side.
+
+112
+00:08:36,349 --> 00:08:37,766
+- Alderman?
+- No, no.
+
+113
+00:08:37,892 --> 00:08:39,643
+You don't have to worry
+about this stuff.
+
+114
+00:08:39,769 --> 00:08:42,855
+No, my wife freezes hard with me
+if I come home with liquor on my breath.
+
+115
+00:08:42,981 --> 00:08:45,232
+I'm gonna have to get
+another thousand, Jake.
+
+116
+00:08:45,942 --> 00:08:47,067
+For what?
+
+117
+00:08:47,193 --> 00:08:49,194
+Well, some of the boys
+have been doing a lot of extra work
+
+118
+00:08:49,320 --> 00:08:50,696
+trailing those feds for you.
+
+119
+00:08:51,573 --> 00:08:52,781
+That's their job.
+
+120
+00:08:52,907 --> 00:08:55,993
+Well, it's still extra work
+no matter how you look at it.
+
+121
+00:08:56,119 --> 00:08:58,203
+I'm not even getting
+my commission on this deal.
+
+122
+00:08:58,329 --> 00:09:00,456
+One grand here, one grand there,
+where are we gonna come out?
+
+123
+00:09:00,582 --> 00:09:02,291
+Now, don't start holding us up.
+
+124
+00:09:03,043 --> 00:09:05,377
+They shut them up for you,
+didn't they?
+
+125
+00:09:07,922 --> 00:09:09,965
+Make sure it stays that way.
+
+126
+00:09:10,884 --> 00:09:12,634
+Give him that grand.
+
+127
+00:09:17,182 --> 00:09:18,390
+(♪ Music playing)
+
+128
+00:09:18,516 --> 00:09:21,685
+(Narrator) 'While Frank Nitti was making
+arrangements with Chicago Police,
+
+129
+00:09:21,811 --> 00:09:24,938
+'Elliot Ness was having a rare date
+with Betty Anderson,
+
+130
+00:09:25,065 --> 00:09:27,816
+'a girl he had been going with
+for over a year.'
+
+131
+00:09:29,069 --> 00:09:31,236
+- Hello there.
+- Hmm?
+
+132
+00:09:31,362 --> 00:09:33,530
+- Stop dancing?
+- No.
+
+133
+00:09:33,656 --> 00:09:36,325
+- What's wrong?
+- Nothing. Why?
+
+134
+00:09:36,451 --> 00:09:39,453
+You don't look as though
+you're enjoying yourself.
+
+135
+00:09:39,579 --> 00:09:42,915
+I'm sorry, honey, I...
+I try to put things out of my mind.
+
+136
+00:09:43,041 --> 00:09:45,084
+Try harder.
+
+137
+00:09:46,503 --> 00:09:48,670
+(♪ Music stops, applause)
+
+138
+00:09:58,640 --> 00:10:00,891
+No work tonight, remember?
+
+139
+00:10:01,017 --> 00:10:02,851
+Every time I see someone drinking
+that Capone booze...
+
+140
+00:10:02,977 --> 00:10:04,853
+No work tonight.
+
+141
+00:10:13,113 --> 00:10:15,989
+Nothing like a woman
+to get your mind off things.
+
+142
+00:10:16,116 --> 00:10:19,576
+Depends on what things
+you're talking about.
+
+143
+00:10:19,702 --> 00:10:21,745
+Well, you're giving me ideas.
+
+144
+00:10:22,497 --> 00:10:23,914
+Is that wrong?
+
+145
+00:10:25,500 --> 00:10:27,417
+You don't know the ideas.
+
+146
+00:10:29,420 --> 00:10:32,589
+What will we have for dessert?
+
+147
+00:10:34,592 --> 00:10:35,676
+What do you want?
+
+148
+00:10:37,804 --> 00:10:39,346
+Something special.
+
+149
+00:10:47,230 --> 00:10:49,523
+Something special.
+
+150
+00:10:49,649 --> 00:10:52,651
+"Marjolaine. Crêpe suzettes."
+
+151
+00:10:52,777 --> 00:10:55,195
+It's a pretty fancy place, Mr. Ness.
+
+152
+00:10:56,614 --> 00:10:58,157
+"Cherries jubilee."
+
+153
+00:10:58,283 --> 00:11:00,868
+- What are they?
+- I'll ask.
+
+154
+00:11:00,994 --> 00:11:03,287
+No. Let's just order them
+and find out.
+
+155
+00:11:03,413 --> 00:11:05,205
+You're on.
+
+156
+00:11:05,331 --> 00:11:06,832
+Excuse me.
+
+157
+00:11:06,958 --> 00:11:09,084
+Oh, Miss Anderson,
+this is Joe Fuselli.
+
+158
+00:11:09,210 --> 00:11:11,211
+- Pleased to meet you.
+- How do you do?
+
+159
+00:11:12,589 --> 00:11:14,423
+We got a setup.
+
+160
+00:11:17,635 --> 00:11:20,637
+I'm sorry, honey, we're gonna have
+to postpone those cherries jubilee.
+
+161
+00:11:23,224 --> 00:11:24,474
+Waiter.
+
+162
+00:11:24,601 --> 00:11:26,059
+Check.
+
+163
+00:11:29,189 --> 00:11:32,774
+(Narrator) 'The first Capone still wrecked
+by the Ness squad was in Chicago Heights.
+
+164
+00:11:32,901 --> 00:11:35,694
+'Knocking over one wouldn’t begin
+to shake the Capone empire.
+
+165
+00:11:35,820 --> 00:11:38,322
+'But Ness intended to use this
+as a wedge
+
+166
+00:11:38,448 --> 00:11:41,116
+'to pry open some seams
+in the organization.'
+
+167
+00:11:41,242 --> 00:11:43,076
+- Come on.
+- You sure you're feds?
+
+168
+00:11:43,203 --> 00:11:45,245
+Yeah, we're feds.
+
+169
+00:11:45,371 --> 00:11:48,123
+Everything wrecked,
+one hundred percent.
+
+170
+00:11:49,500 --> 00:11:51,501
+Get the alky cans in the car.
+
+171
+00:12:08,019 --> 00:12:10,270
+- Boys, what are you doing?
+- They're taking us in.
+
+172
+00:12:10,396 --> 00:12:12,481
+- I've never seen you boys before.
+- Who are you?
+
+173
+00:12:12,607 --> 00:12:14,441
+- Johnny Giannini.
+- What are you doing here?
+
+174
+00:12:14,567 --> 00:12:16,610
+Well, let's talk about that.
+
+175
+00:12:16,736 --> 00:12:18,612
+You that new bunch of feds?
+
+176
+00:12:18,738 --> 00:12:20,614
+- You heard about that?
+- Sure.
+
+177
+00:12:20,740 --> 00:12:23,825
+- Well, we wanna cooperate with you.
+- How?
+
+178
+00:12:23,952 --> 00:12:27,037
+We never been unreasonable in the past.
+What do you say we discuss it?
+
+179
+00:12:27,163 --> 00:12:28,330
+OK. Discuss it.
+
+180
+00:12:28,456 --> 00:12:32,209
+Let's just say, meanwhile,
+we put the right sugar in the coffee.
+
+181
+00:12:32,335 --> 00:12:34,544
+- How much?
+- I gotta talk to someone.
+
+182
+00:12:34,671 --> 00:12:37,923
+You meet me tomorrow night, eight o’clock.
+Peach Coloni's up the block, OK?
+
+183
+00:12:38,049 --> 00:12:39,258
+Eight tomorrow.
+
+184
+00:12:39,384 --> 00:12:41,468
+Hey, uh... what about
+these friends of mine?
+
+185
+00:12:41,594 --> 00:12:44,096
+We're taking them in,
+you haven't forked over yet.
+
+186
+00:12:44,222 --> 00:12:46,014
+Get them in the cars.
+
+187
+00:12:46,849 --> 00:12:47,933
+You gonna spring us, Johnny?
+
+188
+00:12:48,059 --> 00:12:50,269
+I'll send someone.
+You'll be home for breakfast.
+
+189
+00:12:54,274 --> 00:12:57,359
+See you tomorrow night, eight o’clock.
+We'll make you happy, boys.
+
+190
+00:13:22,760 --> 00:13:24,761
+It's after ten o’clock.
+
+191
+00:13:45,533 --> 00:13:47,993
+I said eight o’clock. What's the matter?
+You're late. Where you been?
+
+192
+00:13:48,119 --> 00:13:49,328
+What you got for us?
+
+193
+00:13:50,079 --> 00:13:54,750
+You know, boys, we got things fixed
+around here with the cops and the prohibition.
+
+194
+00:13:54,876 --> 00:13:58,337
+So, we make it one hundred each.
+
+195
+00:13:58,463 --> 00:14:00,380
+What you got operating?
+
+196
+00:14:01,341 --> 00:14:04,092
+Not much cooking around here.
+That is about what it's worth.
+
+197
+00:14:09,640 --> 00:14:11,600
+We all fixed up, huh?
+
+198
+00:14:13,019 --> 00:14:14,436
+A hundred is chicken feed.
+
+199
+00:14:16,147 --> 00:14:19,358
+Look, boys, I don't make the prices.
+This is what I was told to give you.
+
+200
+00:14:19,484 --> 00:14:21,318
+We gotta have more money,
+Johnny.
+
+201
+00:14:21,986 --> 00:14:23,153
+I can't give you anything.
+
+202
+00:14:23,946 --> 00:14:25,155
+OK, Johnny.
+
+203
+00:14:25,573 --> 00:14:26,656
+Wait, wait.
+
+204
+00:14:27,742 --> 00:14:29,493
+Guys, you're making it tough on me.
+
+205
+00:14:29,619 --> 00:14:30,869
+Now, wait, boys. Please, wait.
+
+206
+00:14:30,995 --> 00:14:33,747
+Sit down, huh? I gotta ask someone.
+Sit down, huh?
+
+207
+00:14:39,754 --> 00:14:41,338
+Hey, Joe?
+
+208
+00:14:41,464 --> 00:14:44,174
+- Hey, Picco. How are you?
+- Come sta, Joe?
+
+209
+00:14:44,300 --> 00:14:46,343
+- I'm a little busy right now, huh?
+- Sure, sure.
+
+210
+00:14:46,469 --> 00:14:49,971
+- Hey, how's the dog?
+- È buono. È bello.
+
+211
+00:14:52,100 --> 00:14:53,934
+Why, he knows me
+since I was a little kid, you know?
+
+212
+00:14:54,060 --> 00:14:55,852
+- Someone to see you. Someone big.
+- Who?
+
+213
+00:14:55,978 --> 00:14:58,230
+I can't tell you. It's a big one.
+He wants to see you.
+
+214
+00:14:58,356 --> 00:15:00,816
+- Where?
+- There's a backroom. We wait there.
+
+215
+00:15:00,942 --> 00:15:04,152
+You guys, you don't know
+what you're doing to me.
+
+216
+00:15:37,019 --> 00:15:39,104
+Party's beginning.
+
+217
+00:15:39,230 --> 00:15:41,064
+- You know him?
+- No.
+
+218
+00:15:41,190 --> 00:15:42,357
+(Door opens)
+
+219
+00:15:43,484 --> 00:15:46,987
+- Where's the guy we're supposed to meet?
+- He's coming.
+
+220
+00:15:48,531 --> 00:15:51,324
+- Who's that?
+- Some monkey. He works for us.
+
+221
+00:15:51,451 --> 00:15:53,535
+Just came over from the other side.
+
+222
+00:15:53,661 --> 00:15:56,455
+- Chi è questo?
+- Hey, monkey. He don't speak no English.
+
+223
+00:15:56,581 --> 00:15:58,373
+(Knocking on door)
+
+224
+00:16:14,432 --> 00:16:15,849
+I've seen you before.
+
+225
+00:16:15,975 --> 00:16:18,143
+We hit your Club Montmartre
+last month.
+
+226
+00:16:18,269 --> 00:16:20,187
+Oh, yeah.
+So, now you're ready to do business?
+
+227
+00:16:20,313 --> 00:16:22,105
+- I told him...
+- Shut up, you.
+
+228
+00:16:22,231 --> 00:16:23,940
+How much do you want
+to lay off our stills?
+
+229
+00:16:26,652 --> 00:16:27,986
+I want a grand a week.
+
+230
+00:16:28,112 --> 00:16:30,155
+(Scoffs) You cops!
+
+231
+00:16:30,281 --> 00:16:32,157
+You get more dough out of this
+than we do.
+
+232
+00:16:32,283 --> 00:16:34,034
+OK, so become a cop.
+
+233
+00:16:34,160 --> 00:16:35,452
+Wait.
+
+234
+00:16:40,458 --> 00:16:42,459
+(Indistinct chatter)
+
+235
+00:16:44,378 --> 00:16:47,214
+They're arguing about how much dough
+they're gonna have to give you.
+
+236
+00:16:49,008 --> 00:16:51,593
+- We'll give you 400 a week.
+- That's top figure.
+
+237
+00:16:51,719 --> 00:16:53,303
+How many cops are you paying off
+in the Heights?
+
+238
+00:16:53,429 --> 00:16:55,055
+- We're paying off...
+- Zitto, tu!
+
+239
+00:16:56,265 --> 00:16:58,725
+Who we pay and what we pay
+is our business.
+
+240
+00:16:58,851 --> 00:17:02,812
+We'll give you $500 a week.
+Giannini will make the payoff.
+
+241
+00:17:07,360 --> 00:17:08,693
+A grand.
+
+242
+00:17:11,322 --> 00:17:13,990
+You don't have to take the money.
+
+243
+00:17:14,116 --> 00:17:16,076
+There's other ways to handle this.
+
+244
+00:17:22,375 --> 00:17:24,084
+A grand.
+
+245
+00:17:25,336 --> 00:17:26,878
+Cornuto!
+
+246
+00:17:28,089 --> 00:17:29,965
+Ti caccio una coltellata fra le spalle.
+
+247
+00:17:36,097 --> 00:17:37,389
+Lo faccio ora.
+
+248
+00:17:37,515 --> 00:17:40,767
+He just asked Nitti if he should stick
+the knife in your back.
+
+249
+00:17:47,149 --> 00:17:49,192
+Drop it. Drop it.
+
+250
+00:17:50,152 --> 00:17:51,778
+Move back.
+
+251
+00:17:57,702 --> 00:17:59,828
+OK, a grand.
+
+252
+00:18:14,302 --> 00:18:16,052
+Leave him to me.
+
+253
+00:18:17,888 --> 00:18:19,889
+Leave him to me.
+
+254
+00:18:34,488 --> 00:18:37,407
+(Narrator) 'Ness turned over the bribe
+to the Federal District Attorney's Office.'
+
+255
+00:18:37,533 --> 00:18:39,451
+One thousand dollars.
+
+256
+00:18:40,494 --> 00:18:42,120
+'Then, within the next week,
+
+257
+00:18:42,246 --> 00:18:45,123
+'the squad shut down
+six Capone distilleries.
+
+258
+00:18:45,249 --> 00:18:48,543
+'From this activity,
+Ness got expected results.'
+
+259
+00:18:56,010 --> 00:18:57,552
+Che fai?
+
+260
+00:19:01,057 --> 00:19:02,515
+(Groans)
+
+261
+00:19:04,435 --> 00:19:06,728
+I gave them every cent.
+I didn't hold out.
+
+262
+00:19:06,854 --> 00:19:08,355
+What do you think I am?
+
+263
+00:19:08,481 --> 00:19:10,273
+Argh!
+
+264
+00:19:10,399 --> 00:19:13,401
+Frank, why would I hold out?
+
+265
+00:19:13,527 --> 00:19:16,905
+I gave it to them. Every penny,
+every nickel, every dime.
+
+266
+00:19:17,031 --> 00:19:18,865
+Mamma mia! Mamma mia!
+
+267
+00:19:27,416 --> 00:19:29,542
+You get hold of those guys.
+
+268
+00:19:29,669 --> 00:19:32,003
+Get hold of those guys,
+you tell them to lay off.
+
+269
+00:19:32,129 --> 00:19:35,215
+Otherwise, you tell them
+there's gonna be real trouble.
+
+270
+00:19:35,341 --> 00:19:37,050
+Real trouble!
+
+271
+00:19:39,512 --> 00:19:40,887
+Tell them!
+
+272
+00:19:58,781 --> 00:20:00,865
+What's the matter, you crazy or something?
+I got you a deal.
+
+273
+00:20:00,991 --> 00:20:02,951
+- Sure, Johnny.
+- Frank Nitti himself.
+
+274
+00:20:03,077 --> 00:20:05,161
+He made it himself, and now
+you go knocking over the stills.
+
+275
+00:20:05,287 --> 00:20:08,248
+- Lay off, he says, he means it.
+- It's still the small stuff. Stills we can find.
+
+276
+00:20:08,374 --> 00:20:09,958
+Six stills you knocked off.
+
+277
+00:20:10,084 --> 00:20:11,960
+You guys, you know
+what you're doing to me?
+
+278
+00:20:12,086 --> 00:20:13,420
+They worked me over already.
+
+279
+00:20:13,546 --> 00:20:16,798
+Nitti is saying I double-crossed him.
+He says I'm holding out.
+
+280
+00:20:16,924 --> 00:20:18,466
+You know what can happen to me?
+
+281
+00:20:18,592 --> 00:20:20,760
+It's happening, Johnny.
+
+282
+00:20:20,886 --> 00:20:22,846
+I'm arresting you for bribery.
+
+283
+00:20:22,972 --> 00:20:25,348
+- What do you wanna do that for?
+- You gave us the money.
+
+284
+00:20:25,474 --> 00:20:27,225
+You're wasting your time.
+I'll be sprung before morning.
+
+285
+00:20:27,351 --> 00:20:29,728
+- I know.
+- The minute they hear I'm booked, they'll...
+
+286
+00:20:30,354 --> 00:20:32,564
+They'll know where you are, Johnny?
+
+287
+00:20:46,954 --> 00:20:49,456
+Hey... I'm hot.
+
+288
+00:20:49,582 --> 00:20:52,375
+I'll end up in a ditch, a hole in my head.
+Do you want me on your conscience?
+
+289
+00:20:52,501 --> 00:20:54,252
+You can buy your way out, Johnny.
+
+290
+00:20:55,129 --> 00:20:58,506
+You cops, you're all robbers.
+How much you want?
+
+291
+00:20:58,632 --> 00:21:00,967
+- Come on, tell me. How much you want?
+- Not a cent.
+
+292
+00:21:01,093 --> 00:21:03,136
+You're crazy.
+I ask you, how much, how much?
+
+293
+00:21:03,262 --> 00:21:04,846
+The breweries.
+
+294
+00:21:04,972 --> 00:21:08,933
+I told you, we're looking for something bigger
+than the stills, something harder to find.
+
+295
+00:21:09,059 --> 00:21:10,977
+We want the breweries.
+
+296
+00:21:11,103 --> 00:21:13,188
+- How would I know where there's a brewery?
+- Johnny.
+
+297
+00:21:13,314 --> 00:21:15,231
+- You think they tell me?
+- OK, Johnny, let's go.
+
+298
+00:21:15,357 --> 00:21:17,066
+Hey, wait, wait.
+
+299
+00:21:17,193 --> 00:21:18,902
+I know one.
+
+300
+00:21:19,028 --> 00:21:20,320
+One.
+
+301
+00:21:20,446 --> 00:21:23,990
+I tell you where it is,
+you help me out of town, OK?
+
+302
+00:21:24,116 --> 00:21:26,493
+No double-cross. A deal?
+
+303
+00:21:28,078 --> 00:21:29,537
+One.
+
+304
+00:21:30,456 --> 00:21:32,207
+Where is it, Johnny?
+
+305
+00:21:43,886 --> 00:21:46,012
+(Narrator) 'The breweries
+were the heart of the Capone empire,
+
+306
+00:21:46,138 --> 00:21:48,097
+'the heart and the Achilles heel.
+
+307
+00:21:48,224 --> 00:21:52,018
+'Stills producing booze could be set up
+quickly and inexpensively.
+
+308
+00:21:52,144 --> 00:21:54,771
+'Breweries represented
+great investments of time and money,
+
+309
+00:21:54,897 --> 00:21:56,606
+'and very great profits.
+
+310
+00:21:56,732 --> 00:21:58,274
+'So, they were artfully concealed,
+
+311
+00:21:58,400 --> 00:22:01,110
+'and further protected
+by huge payments of graft.
+
+312
+00:22:01,237 --> 00:22:03,905
+'In the 1 1 months
+before the night of July 28th,
+
+313
+00:22:04,031 --> 00:22:05,615
+'not one Capone brewery
+
+314
+00:22:05,741 --> 00:22:09,327
+'had been touched by any
+law enforcement agency in Chicago.'
+
+315
+00:22:22,591 --> 00:22:24,175
+Steel.
+
+316
+00:22:42,736 --> 00:22:45,071
+Steel door in the rear, too.
+
+317
+00:22:45,197 --> 00:22:46,698
+Hey, Mr. Ness.
+
+318
+00:22:46,824 --> 00:22:48,992
+They got out through here.
+
+319
+00:22:49,869 --> 00:22:52,203
+They caught on.
+We gave them too much time.
+
+320
+00:22:52,329 --> 00:22:54,831
+- They got out through there.
+- The birds flew the coop.
+
+321
+00:22:54,957 --> 00:22:56,916
+We gotta get the guys who work
+the breweries, put them away.
+
+322
+00:22:57,042 --> 00:22:58,751
+Capone can't make beer
+without brewmasters.
+
+323
+00:22:58,878 --> 00:23:01,713
+We gotta think of some way of getting
+through those steel doors on the first try.
+
+324
+00:23:01,839 --> 00:23:03,089
+Alright, let's tear it apart.
+
+325
+00:23:18,188 --> 00:23:21,107
+I thought you ought to know about it.
+That Giannini we let get out of town,
+
+326
+00:23:21,233 --> 00:23:23,610
+- he got as far as Kansas City.
+- How do you know?
+
+327
+00:23:23,736 --> 00:23:25,695
+Because that's where they found him
+lying in a ditch,
+
+328
+00:23:25,821 --> 00:23:28,239
+his head blown off by a shotgun.
+
+329
+00:23:33,120 --> 00:23:35,121
+(Narrator) 'From the first raid
+on a Capone brewery,
+
+330
+00:23:35,247 --> 00:23:37,248
+'both sides learned a lesson.
+
+331
+00:23:37,374 --> 00:23:41,836
+'Frank Nitti ordered the steel doors
+guarding other breweries to be reinforced.
+
+332
+00:23:41,962 --> 00:23:45,965
+'Elliot Ness confiscated from the mob
+a powerful 5-ton truck.
+
+333
+00:23:46,091 --> 00:23:50,219
+'To its radiator was welded
+a thick steel shield.'
+
+334
+00:23:51,555 --> 00:23:53,389
+Now that does it.
+
+335
+00:23:53,933 --> 00:23:55,516
+Will it hold?
+
+336
+00:23:55,643 --> 00:23:58,061
+Only way to find out
+is to give it a try.
+
+337
+00:23:58,187 --> 00:24:00,605
+It's gotta go through steel,
+you know?
+
+338
+00:24:00,731 --> 00:24:02,565
+Welded on real good.
+
+339
+00:24:02,691 --> 00:24:05,151
+Now all we have to do
+is locate a brewery.
+
+340
+00:24:06,862 --> 00:24:08,488
+(Narrator)
+'In the first week of July,
+
+341
+00:24:08,614 --> 00:24:13,660
+'Elliot Ness's special squad began its attempt
+to locate Capone distilleries and breweries.
+
+342
+00:24:13,786 --> 00:24:16,704
+'For days, members of the squad
+cruised through Chicago,
+
+343
+00:24:16,830 --> 00:24:19,207
+'following trucks hauling sugar or cereal.
+
+344
+00:24:19,333 --> 00:24:23,044
+'Days of running down leads,
+piecing together information.
+
+345
+00:24:24,672 --> 00:24:27,924
+'Observation from rented rooms
+finally paid off
+
+346
+00:24:28,050 --> 00:24:30,718
+'in the location of one
+of Capone's biggest breweries
+
+347
+00:24:30,844 --> 00:24:33,054
+'on the South Side of Chicago.'
+
+348
+00:25:20,269 --> 00:25:21,394
+Hold it!
+
+349
+00:25:21,895 --> 00:25:23,396
+Blink the lights four times.
+
+350
+00:25:51,633 --> 00:25:53,468
+(Tires screeching)
+
+351
+00:26:01,977 --> 00:26:03,853
+(Gunfire continues)
+
+352
+00:26:06,231 --> 00:26:07,982
+(Indistinct chatter)
+
+353
+00:26:09,026 --> 00:26:11,235
+Down the same way you came up.
+Go on, move!
+
+354
+00:26:11,361 --> 00:26:14,530
+- Come on, get your hands up.
+- Against that platform, come on.
+
+355
+00:26:14,656 --> 00:26:16,324
+Back of your head.
+
+356
+00:26:16,450 --> 00:26:18,534
+Back of your head.
+
+357
+00:26:18,660 --> 00:26:21,621
+- Come on, get your hands behind your head.
+- Hurry it up.
+
+358
+00:26:24,458 --> 00:26:27,001
+I know that guy from New York,
+Frank Carter, a gunman.
+
+359
+00:26:27,127 --> 00:26:28,503
+I heard Capone was bringing him in.
+
+360
+00:26:28,629 --> 00:26:30,922
+The one in the middle is Steve Svododa,
+Capone's ace brewer.
+
+361
+00:26:31,048 --> 00:26:32,799
+This is gonna hurt the mob.
+
+362
+00:26:32,925 --> 00:26:34,592
+Are you going to arrest me?
+
+363
+00:26:34,718 --> 00:26:35,802
+Sure thing.
+
+364
+00:26:35,928 --> 00:26:38,596
+- I want to talk to my wife.
+- After we've taken you in.
+
+365
+00:26:38,722 --> 00:26:40,598
+What good is to arrest me?
+
+366
+00:26:40,724 --> 00:26:43,434
+I am only doing a job here.
+The only job I know.
+
+367
+00:26:43,560 --> 00:26:44,977
+Too bad the job's illegal.
+
+368
+00:26:45,104 --> 00:26:47,146
+All I know is to brew beer.
+
+369
+00:26:47,272 --> 00:26:51,192
+What have I got to do with some stupid law
+that says people cannot drink beer?
+
+370
+00:26:51,318 --> 00:26:54,737
+- I'm sorry, I didn't...
+- Don't waste your breath on him.
+
+371
+00:26:55,948 --> 00:26:59,325
+I'd like to see what happens to you
+when AI Capone gets out.
+
+372
+00:26:59,451 --> 00:27:01,202
+He'll be out, you'll be in.
+
+373
+00:27:01,328 --> 00:27:03,037
+Oh, sure.
+
+374
+00:27:03,789 --> 00:27:06,624
+I'll do time reading your obituary.
+
+375
+00:27:08,377 --> 00:27:11,087
+- Fuselli, get them in the cars.
+- Alright, let's move outta here.
+
+376
+00:27:11,213 --> 00:27:12,755
+Kane, find a phone,
+call the marshal’s office.
+
+377
+00:27:12,881 --> 00:27:14,507
+We need someone
+to drive these trucks to our garage.
+
+378
+00:27:14,633 --> 00:27:17,468
+- Come on, come on!
+- Flaherty, check the office for records.
+
+379
+00:27:19,096 --> 00:27:20,429
+Get up.
+
+380
+00:27:20,556 --> 00:27:22,265
+I can still read.
+
+381
+00:27:56,258 --> 00:27:59,552
+(Narrator) 'On the night of November 7th,
+1929, a meeting took place
+
+382
+00:27:59,678 --> 00:28:02,930
+'in the office of Frank Nitti
+above the Montmartre Café.
+
+383
+00:28:03,056 --> 00:28:04,682
+'The reason for the meeting:
+
+384
+00:28:04,808 --> 00:28:08,186
+'What to do to stop the activities
+of the special squad.
+
+385
+00:28:08,312 --> 00:28:10,479
+'What to do about Elliot Ness.'
+
+386
+00:28:10,606 --> 00:28:13,983
+We're gonna take a vote right now
+to see if we're willing to take a chance
+
+387
+00:28:14,109 --> 00:28:16,611
+on killing this Elliot Ness.
+
+388
+00:28:19,448 --> 00:28:21,157
+Che dici, Volpe?
+
+389
+00:28:22,618 --> 00:28:24,118
+Belcastro?
+
+390
+00:28:34,338 --> 00:28:36,589
+Mr. Ness, I'm George Ritchie.
+
+391
+00:28:37,174 --> 00:28:39,300
+I'd like to join your squad.
+
+392
+00:28:39,426 --> 00:28:41,427
+Sit down, Mr. Ritchie.
+
+393
+00:28:41,553 --> 00:28:43,763
+Martin, the records are on the table.
+
+394
+00:28:44,765 --> 00:28:46,766
+Ritchie, you said
+you want to join my squad.
+
+395
+00:28:46,892 --> 00:28:48,434
+- What gave you that idea?
+- Yes, sir.
+
+396
+00:28:48,560 --> 00:28:50,895
+Well, I thought I could be useful.
+
+397
+00:28:51,021 --> 00:28:52,897
+- Have you ever been an investigator?
+- No, sir, but I...
+
+398
+00:28:53,023 --> 00:28:54,440
+How did you happen to come here?
+
+399
+00:28:54,566 --> 00:28:56,442
+Well, Brandy, that's my wife,
+
+400
+00:28:56,568 --> 00:28:58,903
+well, she saw your picture
+in the paper, Mr. Ness,
+
+401
+00:28:59,029 --> 00:29:02,406
+and she said to me,
+"Now, there's a real man."
+
+402
+00:29:04,660 --> 00:29:07,286
+Say, maybe you've seen my wife,
+Brandy LaFrance.
+
+403
+00:29:09,665 --> 00:29:11,207
+Well, she's in burlesque.
+
+404
+00:29:13,252 --> 00:29:16,379
+Look, Mr. Ness, I gotta do something
+to impress her.
+
+405
+00:29:16,505 --> 00:29:17,755
+I gotta do something.
+
+406
+00:29:17,881 --> 00:29:20,508
+I'm sorry, I don't know
+how I can use you.
+
+407
+00:29:22,511 --> 00:29:24,428
+This is what we were talking about.
+
+408
+00:29:24,554 --> 00:29:26,430
+Suppose I could get inside
+the Capone mob.
+
+409
+00:29:29,142 --> 00:29:31,018
+How could you get inside?
+
+410
+00:29:31,144 --> 00:29:33,938
+- Brandy's uncle is the mob's treasurer.
+- Jake Guzik?
+
+411
+00:29:34,064 --> 00:29:35,815
+Her real name is Barbara Guzik.
+
+412
+00:29:35,941 --> 00:29:39,485
+Well, if she asked her uncle,
+he'd give me a job. You see?
+
+413
+00:29:40,153 --> 00:29:41,737
+I see.
+
+414
+00:29:43,365 --> 00:29:45,741
+Why don't you try to get him
+to give you an inside job?
+
+415
+00:29:45,867 --> 00:29:47,326
+That way,
+maybe you're some use to us.
+
+416
+00:29:47,452 --> 00:29:49,996
+Oh, I'll be a real undercover man,
+Mr. Ness.
+
+417
+00:29:50,122 --> 00:29:51,372
+Let us know what happens.
+
+418
+00:29:51,498 --> 00:29:52,748
+Goodbye, Mr. Ness.
+
+419
+00:29:52,874 --> 00:29:54,750
+And thanks. Thanks.
+
+420
+00:29:56,920 --> 00:29:59,839
+- (Laughs)
+- No, he can't be for real.
+
+421
+00:29:59,965 --> 00:30:01,757
+Brandy LaFrance.
+
+422
+00:30:01,883 --> 00:30:04,719
+Suppose his wife
+really is Jake Guzik's niece.
+
+423
+00:30:05,637 --> 00:30:07,513
+Brandy LaFrance, the stripper?
+
+424
+00:30:12,602 --> 00:30:14,812
+(♪ Music playing)
+
+425
+00:30:16,773 --> 00:30:18,566
+Something for dessert,
+monsieur ?
+
+426
+00:30:18,692 --> 00:30:20,735
+- Cherries jubilee.
+- Oui, monsieur.
+
+427
+00:30:20,861 --> 00:30:22,903
+Cherries jubilee.
+
+428
+00:30:23,530 --> 00:30:25,114
+Something's been on my mind.
+
+429
+00:30:25,240 --> 00:30:26,615
+I know.
+
+430
+00:30:26,742 --> 00:30:29,910
+For once, this has nothing to do
+with AI Capone.
+
+431
+00:30:30,037 --> 00:30:32,371
+I bought something today.
+It's for you.
+
+432
+00:30:32,497 --> 00:30:34,707
+I hope you'll accept it, and me.
+
+433
+00:30:36,752 --> 00:30:38,294
+Betty?
+
+434
+00:30:40,630 --> 00:30:42,673
+You goof!
+
+435
+00:30:45,218 --> 00:30:47,386
+- You didn't even ask me.
+- I'm asking you now.
+
+436
+00:30:47,512 --> 00:30:49,889
+Why, did you think for a moment
+I'd refuse?
+
+437
+00:30:50,891 --> 00:30:54,060
+- Darling, I love you so much.
+- (♪ Music stops, applause)
+
+438
+00:30:54,186 --> 00:30:56,020
+For always.
+
+439
+00:30:56,813 --> 00:30:59,648
+Well, come on, put it on.
+
+440
+00:31:02,861 --> 00:31:05,404
+Excuse me, Mr. Ness.
+I saw you and...
+
+441
+00:31:05,530 --> 00:31:07,114
+There's something I have to tell you,
+Mr. Ness.
+
+442
+00:31:07,240 --> 00:31:08,824
+Well, see me in my office tomorrow.
+
+443
+00:31:08,950 --> 00:31:13,037
+I think I'd better tell you about it now.
+It's got to do with Frank Nitti and you.
+
+444
+00:31:14,498 --> 00:31:17,083
+Excuse me, I'll...
+I'll go put on a new face.
+
+445
+00:31:22,089 --> 00:31:24,715
+So, they had a meeting last night
+about rubbing you out.
+
+446
+00:31:24,841 --> 00:31:26,175
+Most of them were in favor.
+
+447
+00:31:26,301 --> 00:31:29,470
+But Frank Nitti said they'd have to wait
+for word from the big fellow till he gets out.
+
+448
+00:31:29,596 --> 00:31:31,680
+- How'd you find me?
+- By accident.
+
+449
+00:31:31,807 --> 00:31:34,600
+I'm out with my wife, Brandy,
+over there.
+
+450
+00:31:34,726 --> 00:31:37,395
+No, what hap...?
+Oh, there she is, dancing.
+
+451
+00:31:43,944 --> 00:31:46,153
+That's her cousin, AI Kenner,
+with us.
+
+452
+00:31:46,279 --> 00:31:48,531
+Is your wife related
+to the whole Capone mob?
+
+453
+00:31:48,657 --> 00:31:50,116
+Ain't that the truth?
+
+454
+00:31:50,242 --> 00:31:52,952
+You can't be useful anymore,
+not after Kenner's seen you talking to me.
+
+455
+00:31:53,078 --> 00:31:54,745
+Oh, they know I know you.
+
+456
+00:31:54,871 --> 00:31:57,081
+The first thing Jake Guzik said
+when I saw him today,
+
+457
+00:31:57,207 --> 00:31:59,166
+he said, "What were you doing
+with them lousy feds?"
+
+458
+00:31:59,292 --> 00:32:02,253
+- What did you tell him?
+- I told him you gave me a job.
+
+459
+00:32:02,379 --> 00:32:05,589
+Then I said,
+"Now I can work for the mob."
+
+460
+00:32:05,715 --> 00:32:08,634
+- What would you do for the mob?
+- Well, as soon as you got to trust me,
+
+461
+00:32:08,760 --> 00:32:11,220
+I could tell them in advance
+what you were gonna do.
+
+462
+00:32:15,892 --> 00:32:18,060
+What does AI Kenner think
+you're telling me now?
+
+463
+00:32:18,186 --> 00:32:19,687
+Just what I am telling you.
+
+464
+00:32:19,813 --> 00:32:22,064
+Now, tell me one thing,
+who will you be working for?
+
+465
+00:32:22,190 --> 00:32:24,024
+For you, Mr. Ness.
+
+466
+00:32:24,151 --> 00:32:26,569
+Suppose Jake Guzik
+asks the same question.
+
+467
+00:32:26,695 --> 00:32:28,904
+Well, I'd have to give him
+the same answer.
+
+468
+00:32:29,030 --> 00:32:30,614
+But you can believe me.
+
+469
+00:32:32,993 --> 00:32:35,202
+There's some crazy reason I do.
+
+470
+00:32:35,328 --> 00:32:37,163
+I can use you.
+
+471
+00:32:37,956 --> 00:32:39,915
+We'll set it up this way.
+
+472
+00:32:40,041 --> 00:32:42,376
+You'll tell the mob that I bought
+your story and hired you,
+
+473
+00:32:42,502 --> 00:32:44,378
+that you're ready to sell them
+information about me.
+
+474
+00:32:44,504 --> 00:32:46,297
+- Now, that's what you'll tell them.
+- Yes, sir.
+
+475
+00:32:46,423 --> 00:32:49,133
+And I'll see to it that you know the things
+I want them to know, understand?
+
+476
+00:32:49,259 --> 00:32:51,218
+Mm-hmm.
+
+477
+00:32:51,344 --> 00:32:54,096
+There's just one thing.
+I don't want your murder on my conscience.
+
+478
+00:32:55,265 --> 00:32:58,100
+Are you sure you don't wanna do
+something else to impress Brandy?
+
+479
+00:32:58,226 --> 00:33:01,145
+Like joining a trapeze act
+or playing Russian roulette?
+
+480
+00:33:01,271 --> 00:33:02,938
+No, sir.
+
+481
+00:33:03,064 --> 00:33:04,773
+OK.
+
+482
+00:33:04,900 --> 00:33:07,276
+I want you to start saving
+some going-away money.
+
+483
+00:33:07,402 --> 00:33:10,779
+You're gonna put it in a bank,
+and I'll check the balance from time to time.
+
+484
+00:33:10,906 --> 00:33:13,824
+One of these days, you might have
+to take a quick long trip for your health.
+
+485
+00:33:15,535 --> 00:33:17,661
+- When do you wanna see me, Mr. Ness?
+- I'll let you know.
+
+486
+00:33:17,787 --> 00:33:19,955
+- You know where to reach me?
+- I'll find that out.
+
+487
+00:33:20,081 --> 00:33:21,207
+OK.
+
+488
+00:33:21,333 --> 00:33:22,541
+I'm sorry, honey.
+
+489
+00:33:22,667 --> 00:33:24,293
+We're still engaged, aren't we?
+
+490
+00:33:24,419 --> 00:33:25,920
+You bet.
+
+491
+00:33:26,046 --> 00:33:27,922
+Cherries jubilee.
+
+492
+00:33:38,266 --> 00:33:40,059
+Rum. Brandy.
+
+493
+00:33:41,353 --> 00:33:43,771
+Maybe it's legal. Pre-war.
+
+494
+00:33:49,402 --> 00:33:51,195
+Pardon me.
+
+495
+00:33:59,746 --> 00:34:01,872
+I wish we had champagne, too.
+
+496
+00:34:01,998 --> 00:34:05,209
+So do I, but it's my business
+to see that we don't.
+
+497
+00:34:05,794 --> 00:34:07,670
+Mm! What a business.
+
+498
+00:34:16,638 --> 00:34:19,098
+What is it? Elliot, what is it?
+
+499
+00:34:19,224 --> 00:34:21,058
+Something got left on our table.
+
+500
+00:34:21,184 --> 00:34:23,811
+- Something got left on our ta...?
+- Hey.
+
+501
+00:34:23,937 --> 00:34:25,771
+Hey, we're gonna be married soon.
+
+502
+00:34:31,069 --> 00:34:35,364
+(Narrator) 'The dumdum, a soft-nosed bullet,
+designed to tear a hole in the victim,
+
+503
+00:34:35,490 --> 00:34:37,616
+'the favorite weapon of the Capone gang.
+
+504
+00:34:37,742 --> 00:34:40,869
+'It wasn't often that the Capone mob
+gave anyone such a warning.
+
+505
+00:34:40,996 --> 00:34:44,540
+'Even less often
+was such a warning ignored.
+
+506
+00:34:45,667 --> 00:34:47,501
+'Following the threat against Elliot Ness,
+
+507
+00:34:47,627 --> 00:34:50,504
+'it was decided to make an attempt,
+no matter how dangerous,
+
+508
+00:34:50,630 --> 00:34:53,632
+'to anticipate future moves
+of the Capone mob.
+
+509
+00:34:53,758 --> 00:34:57,344
+'The only way to do this was to try
+to tap the telephone of Frank Nitti,
+
+510
+00:34:57,470 --> 00:35:00,556
+'running the gang during
+Capone's term in a Philadelphia jail.
+
+511
+00:35:01,433 --> 00:35:04,059
+'So, disguised as trash collectors,
+
+512
+00:35:04,185 --> 00:35:08,480
+'Rossman and Kopka
+inspected the alley behind Nitti's office.'
+
+513
+00:35:37,427 --> 00:35:40,304
+Tapping Nitti's phone is gonna be
+the toughest job I ever had.
+
+514
+00:35:40,430 --> 00:35:42,723
+The terminal box
+is on a pole in the alley.
+
+515
+00:35:42,849 --> 00:35:46,435
+The hoods are up and down the alley
+all the time, so I gotta work fast.
+
+516
+00:35:46,561 --> 00:35:49,647
+Trouble is, that kind of terminal box
+has about 150 connections.
+
+517
+00:35:49,773 --> 00:35:52,650
+So, you gotta have someone talking
+on the phone whose voice you recognize,
+
+518
+00:35:52,776 --> 00:35:54,777
+otherwise, you don't know
+which terminals to bridge.
+
+519
+00:35:54,903 --> 00:35:57,738
+- Would you recognize Nitti's voice?
+- Well, I'm not sure.
+
+520
+00:35:57,864 --> 00:36:00,074
+It'll have to be someone
+you know real well.
+
+521
+00:36:00,825 --> 00:36:03,243
+Someone will have to get into Nitti's office
+and use his phone.
+
+522
+00:36:03,370 --> 00:36:05,788
+- Huh! That's all?
+- That isn't all.
+
+523
+00:36:05,914 --> 00:36:08,707
+He'll have to use it
+at an exact specified time at night.
+
+524
+00:36:08,833 --> 00:36:11,168
+Because I can't sit up on that pole
+for more than a couple of minutes.
+
+525
+00:36:11,294 --> 00:36:12,920
+If they spot me up there,
+I'm a goner.
+
+526
+00:36:14,172 --> 00:36:16,131
+Maybe we can get an entrance card
+for the Montmartre.
+
+527
+00:36:16,257 --> 00:36:18,717
+Yeah, but Nitti's office
+is above the club.
+
+528
+00:36:18,843 --> 00:36:21,095
+And he hasn't invited us
+to use his phone.
+
+529
+00:36:21,221 --> 00:36:22,930
+The main problem
+is getting to the office.
+
+530
+00:36:23,056 --> 00:36:24,973
+The first step
+is to get inside the club.
+
+531
+00:36:25,100 --> 00:36:28,143
+Nitti knows me, Fuselli, Kane.
+
+532
+00:36:29,479 --> 00:36:31,105
+So?
+
+533
+00:36:31,231 --> 00:36:33,941
+I don't mind playing
+in Capone's backyard.
+
+534
+00:36:37,112 --> 00:36:39,405
+Who's gonna lend me a nickel,
+so I can use the phone?
+
+535
+00:36:55,130 --> 00:36:57,423
+I want you to get a guest card
+from the Montmartre.
+
+536
+00:36:57,549 --> 00:37:00,008
+- The Montmartre?
+- Can you do it?
+
+537
+00:37:00,135 --> 00:37:02,052
+Well, I guess I can.
+Who's it for?
+
+538
+00:37:02,178 --> 00:37:03,804
+- Frank Morris.
+- Morris?
+
+539
+00:37:03,930 --> 00:37:05,472
+- From out of town, Cleveland.
+- Who's he?
+
+540
+00:37:05,598 --> 00:37:07,015
+- Me.
+- Oh.
+
+541
+00:37:07,142 --> 00:37:09,852
+- Oh, sure, sure.
+- You'll take Frank to the Montmartre.
+
+542
+00:37:09,978 --> 00:37:12,688
+- Can you get your wife to go along?
+- Brandy? Oh, yeah, she loves to go out.
+
+543
+00:37:12,814 --> 00:37:15,524
+You'll tell Brandy the same thing
+you tell everyone else.
+
+544
+00:37:15,650 --> 00:37:18,193
+- You know Frank, you know he's a right Joe.
+- Oh, I'll handle it.
+
+545
+00:37:18,319 --> 00:37:20,070
+What's it all about?
+
+546
+00:37:20,822 --> 00:37:24,032
+You only have to know one thing, George.
+If you tip off the mob...
+
+547
+00:37:24,159 --> 00:37:26,243
+- Oh, I wouldn’t do that.
+- You'd better not.
+
+548
+00:37:26,369 --> 00:37:28,871
+Because if anything happens to me,
+it'll happen to you, too.
+
+549
+00:37:28,997 --> 00:37:30,414
+I'm on the level with you.
+
+550
+00:37:30,540 --> 00:37:32,833
+Strictly on the level, I swear.
+
+551
+00:37:32,959 --> 00:37:35,335
+This is real undercover stuff, huh?
+
+552
+00:37:42,510 --> 00:37:44,511
+(♪ Piano playing)
+
+553
+00:37:48,308 --> 00:37:51,101
+- Play Brandy's song, will you?
+- Yes, sir.
+
+554
+00:37:56,399 --> 00:38:00,486
+Do they have burlecue in Cleveland,
+Mr. Morris?
+
+555
+00:38:00,612 --> 00:38:03,655
+Sure. What's a town without it,
+I always say.
+
+556
+00:38:03,782 --> 00:38:06,033
+That's what I always say.
+
+557
+00:38:06,159 --> 00:38:08,202
+Looks like we got
+something in common.
+
+558
+00:38:08,328 --> 00:38:10,287
+Yeah, we do.
+
+559
+00:38:10,413 --> 00:38:13,290
+We sure do.
+
+560
+00:38:19,464 --> 00:38:21,423
+That's some song, huh?
+
+561
+00:38:21,549 --> 00:38:23,675
+Hey, how do you like my friend
+from Cleveland?
+
+562
+00:38:23,802 --> 00:38:26,220
+Oh, I like your friend
+from Cleveland.
+
+563
+00:38:26,346 --> 00:38:28,806
+Oh, he's a swell guy.
+
+564
+00:38:28,932 --> 00:38:30,182
+How do you like Brandy?
+
+565
+00:38:30,308 --> 00:38:32,226
+- She's a dish.
+- You ain't kidding.
+
+566
+00:38:32,352 --> 00:38:34,978
+- You ought to see her at the burlesque.
+- That's an idea.
+
+567
+00:38:35,104 --> 00:38:37,314
+Go in the afternoon,
+you get seats down front.
+
+568
+00:38:37,440 --> 00:38:39,733
+Come backstage after the show.
+
+569
+00:38:39,859 --> 00:38:42,486
+I think I will come backstage.
+
+570
+00:38:46,908 --> 00:38:48,700
+Who's that coming down the stairs?
+
+571
+00:38:52,539 --> 00:38:54,581
+That's Tony Liguri.
+He runs the place.
+
+572
+00:38:54,707 --> 00:38:55,874
+How well do you know him?
+
+573
+00:38:56,000 --> 00:38:57,876
+Oh, pretty good, pretty good. Why?
+
+574
+00:38:58,002 --> 00:38:59,628
+Think you can get him
+to come over here?
+
+575
+00:38:59,754 --> 00:39:01,755
+Oh, well, I'm not too sure.
+I don't know...
+
+576
+00:39:01,881 --> 00:39:06,426
+Just tell Tony hello from me, huh?
+
+577
+00:39:07,679 --> 00:39:10,430
+Yeah. Yeah, OK.
+
+578
+00:39:12,058 --> 00:39:15,894
+What business are you in,
+Mr. Morris?
+
+579
+00:39:16,020 --> 00:39:18,438
+I mean, Frankie.
+
+580
+00:39:19,023 --> 00:39:20,983
+Georgie didn't say.
+
+581
+00:39:21,109 --> 00:39:22,818
+Georgie doesn't know.
+
+582
+00:39:22,944 --> 00:39:25,279
+I'll bet it's something.
+
+583
+00:39:25,405 --> 00:39:26,822
+Yeah, something.
+
+584
+00:39:27,740 --> 00:39:30,158
+You know who you ought to meet?
+My Uncle Jake.
+
+585
+00:39:30,285 --> 00:39:31,702
+Does Uncle Jake do something?
+
+586
+00:39:31,828 --> 00:39:35,998
+Does he? He's running the whole organization
+until Snorky gets back.
+
+587
+00:39:36,124 --> 00:39:38,125
+- "Snorky"?
+- AI Capone.
+
+588
+00:39:38,251 --> 00:39:41,336
+That's what they call him.
+Snorky. (Laughs)
+
+589
+00:39:41,462 --> 00:39:43,005
+Sounds cute.
+
+590
+00:39:43,131 --> 00:39:45,549
+Oh, he's not my type.
+
+591
+00:39:45,675 --> 00:39:49,052
+My type is more like
+someone from Cleveland.
+
+592
+00:39:50,096 --> 00:39:51,680
+They grow 'em cute in Cleveland.
+
+593
+00:39:51,806 --> 00:39:54,474
+You're growing on me already,
+Frankie.
+
+594
+00:39:55,643 --> 00:39:58,604
+What do you say,
+why don't we ditch little Ritchie
+
+595
+00:39:58,730 --> 00:40:00,647
+and get out of here, huh?
+
+596
+00:40:01,316 --> 00:40:02,900
+It's an idea.
+
+597
+00:40:03,026 --> 00:40:05,903
+Let's have another drink.
+We'll take an out from here.
+
+598
+00:40:09,699 --> 00:40:10,699
+Hello, Brandy.
+
+599
+00:40:10,825 --> 00:40:13,577
+Tony, this is Frank Morris from Cleveland.
+Frank, this is Tony.
+
+600
+00:40:13,703 --> 00:40:15,078
+- How do you do?
+- How are you?
+
+601
+00:40:15,204 --> 00:40:17,748
+From Cleveland, huh?
+You know Eddie Santis from Cleveland?
+
+602
+00:40:17,874 --> 00:40:21,168
+Yeah, I knew him before the feds
+knocked him down to Atlanta.
+
+603
+00:40:21,294 --> 00:40:23,003
+You here on business?
+
+604
+00:40:23,129 --> 00:40:24,504
+No, just looking for fun.
+
+605
+00:40:25,048 --> 00:40:27,466
+Fun you can have,
+if you know the right people.
+
+606
+00:40:28,217 --> 00:40:29,843
+I'm beginning to meet them.
+
+607
+00:40:29,969 --> 00:40:31,345
+Sit down. I'll buy you a drink.
+
+608
+00:40:31,471 --> 00:40:33,764
+Your money's no good here.
+I'll buy the drinks.
+
+609
+00:40:33,890 --> 00:40:35,474
+Charlie.
+
+610
+00:40:46,277 --> 00:40:47,778
+How did it go?
+
+611
+00:40:47,904 --> 00:40:49,821
+Me and Tony Liguri.
+
+612
+00:40:49,948 --> 00:40:52,240
+Quizzed me about a mobster
+called Eddie Santis, and I knew him.
+
+613
+00:40:52,367 --> 00:40:55,494
+- I put him away.
+- Did he ask you anything else?
+
+614
+00:40:55,620 --> 00:40:59,623
+He gave me all the answers I needed.
+We got along fine, Tony and me.
+
+615
+00:40:59,749 --> 00:41:02,000
+You think he'll let you in Nitti's room
+to make a phone call?
+
+616
+00:41:02,126 --> 00:41:05,045
+He just did.
+I wanted to make sure he would.
+
+617
+00:41:05,171 --> 00:41:06,546
+How about tomorrow night?
+
+618
+00:41:06,673 --> 00:41:08,548
+- What time?
+- 2:00am.
+
+619
+00:41:08,675 --> 00:41:09,883
+Fine.
+
+620
+00:41:10,009 --> 00:41:13,971
+But in case someone's breathing down
+my neck, I better be talking to a girl.
+
+621
+00:41:15,098 --> 00:41:16,765
+Here, call this number.
+
+622
+00:41:16,891 --> 00:41:18,558
+Who's that?
+
+623
+00:41:18,685 --> 00:41:21,561
+My fiancée.
+She's expecting your call.
+
+624
+00:41:22,855 --> 00:41:24,439
+OK.
+
+625
+00:41:25,191 --> 00:41:27,776
+Oh, about that Brandy LaFrance,
+
+626
+00:41:27,902 --> 00:41:30,445
+she wouldn’t be too tough
+to swallow.
+
+627
+00:42:05,023 --> 00:42:07,357
+(♪ Music playing, indistinct chatter)
+
+628
+00:42:07,483 --> 00:42:11,570
+Frankie, once more,
+why didn't you come to the theater?
+
+629
+00:42:11,696 --> 00:42:13,739
+I told you, Brandy, I got busy.
+
+630
+00:42:13,865 --> 00:42:17,117
+Well, anyone who's too busy
+to come to the...
+
+631
+00:42:17,785 --> 00:42:20,370
+What kind of a guy are you?
+
+632
+00:42:20,496 --> 00:42:23,498
+Don't tell me
+you're worried about Georgie?
+
+633
+00:42:23,624 --> 00:42:25,333
+(Laughs)
+
+634
+00:42:25,460 --> 00:42:27,502
+You wanna go home, Brandy?
+
+635
+00:42:27,628 --> 00:42:29,755
+No, I don't wanna go home.
+
+636
+00:42:29,881 --> 00:42:33,008
+I don't want you calling me Brandy.
+My name's Barbara.
+
+637
+00:42:33,134 --> 00:42:35,927
+- I'm sorry, Barbara.
+- Now, just one more time.
+
+638
+00:42:36,054 --> 00:42:37,846
+Why didn't you come to the theater?
+
+639
+00:42:37,972 --> 00:42:39,639
+I got busy.
+
+640
+00:42:39,766 --> 00:42:42,142
+Would you excuse me
+for five minutes?
+
+641
+00:42:43,019 --> 00:42:45,020
+Where are you going, Frankie?
+
+642
+00:42:47,482 --> 00:42:49,775
+What are looking at, you sap?
+
+643
+00:43:21,057 --> 00:43:23,433
+Superior 2098.
+
+644
+00:43:29,982 --> 00:43:33,235
+Oh, hiya, baby.
+This is Frank Morris.
+
+645
+00:43:33,361 --> 00:43:34,736
+Oh, hello, Frank.
+
+646
+00:43:34,862 --> 00:43:39,658
+Uh, I've been meaning to call you
+ever since I got to Chi, but I've been busy.
+
+647
+00:43:39,784 --> 00:43:40,867
+You know how it is.
+
+648
+00:43:41,410 --> 00:43:43,411
+(Lines buzzing)
+
+649
+00:43:51,170 --> 00:43:53,380
+(Woman)
+'Yes, sir, that's perfectly alright.'
+
+650
+00:43:53,506 --> 00:43:56,508
+I'll be over to see you
+the first chance I get.
+
+651
+00:43:56,634 --> 00:43:58,385
+You dirty double-crossing ape!
+
+652
+00:43:58,511 --> 00:44:00,887
+- You coming up here to call another dame.
+- Hello, baby?
+
+653
+00:44:01,013 --> 00:44:02,389
+Listen to me.
+
+654
+00:44:02,515 --> 00:44:04,474
+I'm having a little trouble here,
+sweetheart.
+
+655
+00:44:04,600 --> 00:44:07,978
+Nothing like the trouble you're gonna have
+if you don't stop playing me for a sucker.
+
+656
+00:44:08,104 --> 00:44:09,896
+I'm still here with you, sweetheart.
+
+657
+00:44:10,022 --> 00:44:11,857
+Still with who?
+
+658
+00:44:11,983 --> 00:44:14,526
+- (Woman) 'You in the right...'
+- (Man) 'I hate to bother you at home...'
+
+659
+00:44:23,619 --> 00:44:26,371
+(Woman) 'Hello! Hello? Hello!'
+
+660
+00:44:26,497 --> 00:44:28,498
+Baby, this is hard to believe,
+but there's someone here.
+
+661
+00:44:28,624 --> 00:44:32,085
+- You betcha there's someone here.
+- I'm still with you, baby.
+
+662
+00:44:32,211 --> 00:44:34,921
+Who are you talking to,
+you stinking little rat, you?
+
+663
+00:44:35,840 --> 00:44:37,674
+Don't hang up, baby.
+
+664
+00:44:39,385 --> 00:44:41,803
+Oh, come on, Frankie.
+
+665
+00:44:41,929 --> 00:44:45,849
+What she got that's any better
+than little Brandy?
+
+666
+00:44:46,475 --> 00:44:47,684
+Baby, I'm still with you.
+
+667
+00:44:49,020 --> 00:44:50,729
+That's what you think.
+
+668
+00:44:50,855 --> 00:44:53,565
+(Woman) 'You know,
+the faucet is not working. The chute...
+
+669
+00:44:55,610 --> 00:44:58,528
+'Come on, I'm sorry.
+Let's go to the store.'
+
+670
+00:44:59,280 --> 00:45:00,989
+How's your sister, baby?
+Is she still working?
+
+671
+00:45:01,115 --> 00:45:02,741
+I got news for her
+from a friend in Cleveland.
+
+672
+00:45:02,867 --> 00:45:06,912
+I'll fix your wagon and her sister and you,
+you no-good broad, whoever you are!
+
+673
+00:45:07,038 --> 00:45:09,456
+- Hey, hey, hey, what's going on here?
+- I'm making this call, then...
+
+674
+00:45:09,582 --> 00:45:11,374
+- You're not making a...
+- Come on, cut it out.
+
+675
+00:45:11,500 --> 00:45:14,127
+- Will you stay out of this, Tony?
+- Hey, you're asking for it.
+
+676
+00:45:14,253 --> 00:45:16,421
+Go on. Get out of here.
+Beat it! Go on, get out!
+
+677
+00:45:16,547 --> 00:45:18,465
+I'm going! I'm going!
+
+678
+00:45:20,760 --> 00:45:22,677
+Who needs you?
+
+679
+00:45:22,803 --> 00:45:25,680
+I happen to have
+a very nice husband.
+
+680
+00:45:29,477 --> 00:45:30,685
+I'm still with you, baby.
+
+681
+00:45:30,811 --> 00:45:32,062
+(Scoffs)
+
+682
+00:45:32,188 --> 00:45:33,855
+Come ti piace...
+
+683
+00:45:33,981 --> 00:45:36,524
+Hey, let me talk. I'll fix it.
+
+684
+00:45:38,361 --> 00:45:40,403
+Hello, honey?
+
+685
+00:45:40,529 --> 00:45:42,781
+Frank's been telling me
+all about you, baby.
+
+686
+00:45:42,907 --> 00:45:45,408
+(Woman) 'I wasn't on duty last night.
+Are you...?'
+
+687
+00:45:45,534 --> 00:45:47,369
+(Man) You cheap bum.
+What are you doing out here?
+
+688
+00:45:48,329 --> 00:45:51,039
+(Woman) What do you think we're doing?
+We're just having a smoke.
+
+689
+00:45:51,165 --> 00:45:52,999
+I ought to smack you
+all over the pIace.
+
+690
+00:45:53,125 --> 00:45:55,210
+Come on and start something,
+loudmouth.
+
+691
+00:45:58,673 --> 00:46:00,215
+Why don't you come down
+to the club, huh?
+
+692
+00:46:00,341 --> 00:46:05,220
+Oh, well, baby doll, it's...
+It's so late.
+
+693
+00:46:05,346 --> 00:46:07,931
+It's early. I'll send a car to get you.
+Where do you live?
+
+694
+00:46:10,309 --> 00:46:11,726
+Leave him alone, Joe.
+
+695
+00:46:11,852 --> 00:46:14,562
+Come on, you guys,
+let's have a drink and forget it.
+
+696
+00:46:21,654 --> 00:46:23,488
+(Woman) 'I want to explain to you...'
+
+697
+00:46:23,614 --> 00:46:25,282
+I'm dying to meet you, honey.
+
+698
+00:46:33,416 --> 00:46:35,250
+'Can I talk to Frank again?'
+
+699
+00:46:37,295 --> 00:46:39,129
+She wants to talk to you.
+
+700
+00:46:41,007 --> 00:46:42,799
+Hiya, baby.
+
+701
+00:46:42,925 --> 00:46:45,051
+This is a swell guy
+I want you to meet.
+
+702
+00:46:45,177 --> 00:46:47,345
+'He's an important man.'
+
+703
+00:46:47,471 --> 00:46:49,347
+Well, how about tomorrow night?
+
+704
+00:46:49,473 --> 00:46:52,058
+Like I said, this is one swell guy.
+
+705
+00:46:52,184 --> 00:46:53,810
+'And I know you gonna like him.'
+
+706
+00:46:53,936 --> 00:46:55,353
+What do you mean
+you're leaving town?
+
+707
+00:46:55,479 --> 00:46:57,856
+I'll be back in a couple of weeks.
+OK?
+
+708
+00:46:57,982 --> 00:47:01,192
+This guy won't keep for a couple of weeks.
+He's murder with the dames.
+
+709
+00:47:11,203 --> 00:47:13,371
+I'm not making up to any broad.
+
+710
+00:47:13,497 --> 00:47:14,914
+Not even for a pal.
+
+711
+00:47:15,041 --> 00:47:17,751
+- Forget it. You want a cigarette?
+- No.
+
+712
+00:47:17,877 --> 00:47:19,461
+Listen, Frank.
+
+713
+00:47:19,587 --> 00:47:23,298
+I got a couple of fresh ones downstairs.
+Come on, let's set them up.
+
+714
+00:48:00,169 --> 00:48:04,881
+(Narrator) 'Then after nine days,
+the tap on Frank Nitti's phone paid off.
+
+715
+00:48:23,609 --> 00:48:27,570
+Here's a good one. They're opening
+a new brewery on South Wabash tonight.
+
+716
+00:48:27,696 --> 00:48:29,531
+Get there for the opening.
+
+717
+00:48:30,991 --> 00:48:32,951
+(Tires screeching)
+
+718
+00:48:36,163 --> 00:48:37,414
+(Narrator) 'In the following weeks,
+
+719
+00:48:37,540 --> 00:48:40,083
+'using information gathered
+through the tap of Nitti's phone,
+
+720
+00:48:40,209 --> 00:48:44,212
+'Elliot Ness's special squad located
+and wrecked four more Capone breweries.
+
+721
+00:49:02,523 --> 00:49:04,732
+'Elliot Ness and his squad
+were succeeding in their job
+
+722
+00:49:04,859 --> 00:49:08,862
+'of choking off the most important source
+of all Capone revenues.
+
+723
+00:49:08,988 --> 00:49:11,739
+'But time was beginning to work
+against Elliot Ness.
+
+724
+00:49:11,866 --> 00:49:14,701
+'Time that had been measured
+in days, weeks and months
+
+725
+00:49:14,827 --> 00:49:17,328
+'by a man a thousand miles away.
+
+726
+00:49:17,455 --> 00:49:19,873
+'Finally, on March 19th, 1930,
+
+727
+00:49:19,999 --> 00:49:23,543
+'having served ten months
+in a Philadelphia jail for carrying a gun,
+
+728
+00:49:23,669 --> 00:49:28,339
+'AI Capone returned to Chicago,
+and a very critical situation.'
+
+729
+00:49:41,687 --> 00:49:44,439
+(Cheering)
+
+730
+00:49:44,565 --> 00:49:47,108
+(♪ Piano strikes up)
+
+731
+00:49:58,078 --> 00:50:00,663
+♪ For he's a jolly good fellow
+
+732
+00:50:00,789 --> 00:50:02,999
+♪ For he's a jolly good fellow
+
+733
+00:50:03,125 --> 00:50:06,169
+♪ For he's a jolly good fellow
+
+734
+00:50:06,295 --> 00:50:08,922
+♪ Which nobody can deny ♪
+
+735
+00:50:09,048 --> 00:50:11,883
+- (Man) Drinks on the house for everybody!
+- (Cheering)
+
+736
+00:50:17,556 --> 00:50:21,476
+(Narrator) 'Capone went first to headquarters
+for the organization in the Café Montmartre,
+
+737
+00:50:21,602 --> 00:50:24,145
+'where offices were maintained
+on the second floor.
+
+738
+00:50:24,271 --> 00:50:28,983
+'Here, Capone presided over a meeting
+of the heads of his organization.'
+
+739
+00:50:30,569 --> 00:50:32,195
+I got some bad news, AI.
+
+740
+00:50:32,321 --> 00:50:34,697
+We had some breweries
+knocked over.
+
+741
+00:50:34,823 --> 00:50:35,990
+Eight to be exact.
+
+742
+00:50:36,492 --> 00:50:39,827
+Three on the South Side, including
+two new ones we set up while you were away.
+
+743
+00:50:39,954 --> 00:50:42,080
+One in the Heights,
+two on the North Side,
+
+744
+00:50:42,206 --> 00:50:43,790
+one of them we took over
+from Lorenz,
+
+745
+00:50:43,916 --> 00:50:45,250
+a big one out on Diversey,
+
+746
+00:50:45,376 --> 00:50:47,669
+and another new one
+we set up on the county line.
+
+747
+00:50:48,087 --> 00:50:49,712
+What did that add up to?
+
+748
+00:50:49,838 --> 00:50:52,006
+We lost 3,850 barrels a day.
+
+749
+00:50:52,132 --> 00:50:54,509
+But we're setting up a big new one
+out near the stockyards,
+
+750
+00:50:54,635 --> 00:50:56,219
+big enough to replace the loss.
+
+751
+00:50:56,345 --> 00:50:58,680
+How about the equipment?
+How much have we lost there?
+
+752
+00:50:59,932 --> 00:51:02,934
+I'm carrying that loss at $3.5 million.
+
+753
+00:51:03,060 --> 00:51:04,310
+What about our protection?
+
+754
+00:51:05,145 --> 00:51:08,439
+- Well, Frank can tell you about that.
+- You tell me!
+
+755
+00:51:11,569 --> 00:51:16,114
+Our operating loss is gonna make us
+have to cut down on the local graft.
+
+756
+00:51:16,240 --> 00:51:19,075
+But we ought to be able to keep them
+looking the other way.
+
+757
+00:51:19,201 --> 00:51:22,245
+- It's these other guys, AI.
+- What other guys?
+
+758
+00:51:22,371 --> 00:51:24,205
+The feds have gotten up
+this special squad.
+
+759
+00:51:24,707 --> 00:51:28,167
+- You tell me.
+- Well, it's a special squad, like Jake says.
+
+760
+00:51:28,294 --> 00:51:31,212
+From all over the country,
+just to knock over our stuff.
+
+761
+00:51:31,338 --> 00:51:32,839
+How big's that squad?
+
+762
+00:51:32,965 --> 00:51:34,257
+- Well...
+- How big?
+
+763
+00:51:36,218 --> 00:51:37,635
+Seven, eight guys.
+
+764
+00:51:38,762 --> 00:51:40,638
+Seven, eight guys.
+
+765
+00:51:40,764 --> 00:51:43,474
+- But, AI...
+- Seven, eight guys!
+
+766
+00:51:51,483 --> 00:51:52,483
+Punks!
+
+767
+00:51:55,446 --> 00:51:58,615
+You two-bit punks.
+
+768
+00:51:58,741 --> 00:52:03,494
+You lousy, stupid, yellow,
+stinking punks.
+
+769
+00:52:06,498 --> 00:52:09,292
+I'm away for...
+I'm away for ten months.
+
+770
+00:52:09,418 --> 00:52:12,045
+Ten months,
+and we got a problem with this, um...?
+
+771
+00:52:12,713 --> 00:52:15,256
+- Ness.
+- Ness, Ness, Ness.
+
+772
+00:52:15,382 --> 00:52:18,343
+Well, I've had plenty of problems,
+and I took care of them.
+
+773
+00:52:18,469 --> 00:52:20,011
+So now I'm back.
+
+774
+00:52:20,137 --> 00:52:22,472
+And I'll take care of Ness.
+
+775
+00:52:42,660 --> 00:52:43,910
+(Chuckles)
+
+776
+00:52:46,372 --> 00:52:48,289
+(All laughing)
+
+777
+00:52:58,676 --> 00:52:59,801
+(AI Capone) lo...
+
+778
+00:53:01,804 --> 00:53:04,013
+lo, AI Capone...
+
+779
+00:53:05,432 --> 00:53:07,600
+...took care of O'Banion.
+
+780
+00:53:08,394 --> 00:53:09,852
+And Weiss.
+
+781
+00:53:09,978 --> 00:53:11,312
+And Drucci.
+
+782
+00:53:11,438 --> 00:53:13,815
+And the Gennas, and the Morans,
+and all the rest.
+
+783
+00:53:21,865 --> 00:53:24,867
+And that's what's gonna happen
+to Ness.
+
+784
+00:54:00,362 --> 00:54:02,697
+(Narrator) 'Just seven, eight guys.
+
+785
+00:54:02,823 --> 00:54:04,073
+'While the mob heads met,
+
+786
+00:54:04,199 --> 00:54:07,910
+'Elliot Ness and his squad gave Capone
+their own welcome to Chicago.
+
+787
+00:54:08,036 --> 00:54:11,998
+'These men, specially selected from
+thousands in the Prohibition Bureau,
+
+788
+00:54:12,124 --> 00:54:15,793
+'were preparing to raid and wreck
+still another Capone brewery.
+
+789
+00:54:32,936 --> 00:54:34,729
+(Tires screeching)
+
+790
+00:54:39,401 --> 00:54:43,780
+'The effect of this raid would soon be felt
+by the mob and by Elliot Ness.'
+
+791
+00:54:43,906 --> 00:54:45,364
+I'm Ed Marriatt.
+
+792
+00:54:45,491 --> 00:54:47,825
+I've come to do a favor
+for some people in my ward.
+
+793
+00:54:47,951 --> 00:54:49,786
+You too, Mr. Ness.
+
+794
+00:54:49,912 --> 00:54:51,621
+What's the favor?
+
+795
+00:54:52,372 --> 00:54:55,374
+You've, uh... never met AI Capone,
+have you?
+
+796
+00:54:56,168 --> 00:54:57,877
+Not face-to-face.
+
+797
+00:54:58,003 --> 00:55:01,088
+Well, he's, uh... He's got his poise,
+the big fella has.
+
+798
+00:55:01,215 --> 00:55:03,174
+Yes, sir, he's got his poise.
+
+799
+00:55:03,300 --> 00:55:05,384
+And after all,
+you get right down to brass tacks,
+
+800
+00:55:05,511 --> 00:55:07,345
+what's he doing that's really wrong?
+
+801
+00:55:07,471 --> 00:55:09,347
+Peddling some booze and beer?
+
+802
+00:55:10,182 --> 00:55:12,308
+Can you sit there, Mr. Ness,
+and honestly say
+
+803
+00:55:12,434 --> 00:55:14,894
+that you haven't had a drink
+since the prohibition?
+
+804
+00:55:15,020 --> 00:55:16,270
+Stick to Capone.
+
+805
+00:55:16,396 --> 00:55:19,190
+Well, for one thing, he's generous,
+if you know what I mean.
+
+806
+00:55:19,316 --> 00:55:20,900
+Christmastime,
+
+807
+00:55:21,026 --> 00:55:23,861
+you got any idea how many families
+he feeds?
+
+808
+00:55:23,987 --> 00:55:26,781
+Ten thousand families of the poor
+wouldn’t have any Christmas at all
+
+809
+00:55:26,907 --> 00:55:28,157
+if it wasn't for AI.
+
+810
+00:55:29,493 --> 00:55:30,910
+I never thought of it that way.
+
+811
+00:55:31,036 --> 00:55:33,830
+A hundred bucks to waiters
+'cause they're working men.
+
+812
+00:55:33,956 --> 00:55:37,750
+Twenty five bucks to hat-check girls.
+AI likes to help people.
+
+813
+00:55:38,710 --> 00:55:41,212
+You play it square with the big fellow,
+he takes care of you.
+
+814
+00:55:42,339 --> 00:55:44,632
+Think he might wanna
+take care of me another way?
+
+815
+00:55:45,926 --> 00:55:47,343
+I think he might.
+
+816
+00:55:47,469 --> 00:55:49,428
+Let's stop horsing around.
+How much?
+
+817
+00:55:49,555 --> 00:55:53,140
+Two grand.
+Two grand a week.
+
+818
+00:55:53,267 --> 00:55:54,559
+Starting when?
+
+819
+00:56:04,111 --> 00:56:05,236
+Now.
+
+820
+00:56:06,321 --> 00:56:07,363
+Show.
+
+821
+00:56:12,744 --> 00:56:13,995
+Two grand.
+
+822
+00:56:19,668 --> 00:56:23,170
+This louse just tried
+to give us two grand a week.
+
+823
+00:56:23,297 --> 00:56:26,549
+He's an alderman.
+An alderman of the city of Chicago.
+
+824
+00:56:27,217 --> 00:56:29,051
+You scum.
+You're the worst scum of all.
+
+825
+00:56:29,177 --> 00:56:31,387
+You make the Capones possible
+by selling them your office.
+
+826
+00:56:31,513 --> 00:56:33,389
+Well, scum, I'm gonna pin
+a bribery rap on you.
+
+827
+00:56:33,515 --> 00:56:35,850
+- I'm gonna pin it to your stinking skin.
+- (Laughs)
+
+828
+00:56:35,976 --> 00:56:38,394
+What are you gonna use
+for evidence, huh?
+
+829
+00:56:41,523 --> 00:56:44,609
+That look like a bribe, huh?
+(Laughs)
+
+830
+00:56:45,652 --> 00:56:48,946
+- Alright. Alright, let's go. Come on, Alderman.
+- I should have slugged him.
+
+831
+00:56:49,072 --> 00:56:50,615
+He'd hang an assault charge on you
+
+832
+00:56:50,741 --> 00:56:53,451
+that'd keep you busy for weeks
+defending yourself.
+
+833
+00:56:54,286 --> 00:56:55,995
+You ain't the only one.
+
+834
+00:56:56,121 --> 00:56:58,164
+We was driving along,
+a car comes alongside,
+
+835
+00:56:58,290 --> 00:57:01,000
+and a guy in a gray hat
+throws this in the back seat.
+
+836
+00:57:01,126 --> 00:57:02,668
+We thought it was
+a Capone pineapple.
+
+837
+00:57:03,170 --> 00:57:05,463
+Turns out to be cabbage.
+
+838
+00:57:07,049 --> 00:57:09,008
+That's a lot of green.
+
+839
+00:57:11,136 --> 00:57:13,554
+Makes you sweat
+to see all that dough.
+
+840
+00:57:14,431 --> 00:57:16,057
+Kind of sticks to your fingers.
+
+841
+00:57:17,476 --> 00:57:19,685
+I see it sticking, Joe.
+
+842
+00:57:21,563 --> 00:57:22,730
+It'll peel off.
+
+843
+00:57:25,442 --> 00:57:27,693
+Sure wish I could get
+that kind of dough legit.
+
+844
+00:57:27,819 --> 00:57:31,030
+- So do I, but I don't see it happening.
+- Who are you going to call?
+
+845
+00:57:31,156 --> 00:57:33,032
+The newspapers.
+
+846
+00:57:37,829 --> 00:57:40,831
+This was thrown into one of our cars
+by some of Capone's mobsters.
+
+847
+00:57:40,958 --> 00:57:42,375
+It's a bribe.
+
+848
+00:57:42,501 --> 00:57:44,669
+It's a bribe that's going
+to the United States Marshal’s office,
+
+849
+00:57:44,795 --> 00:57:46,295
+and it won't buy anything from us.
+
+850
+00:57:46,838 --> 00:57:48,798
+Capone has threatened us
+and he's tried to bribe us,
+
+851
+00:57:48,924 --> 00:57:51,759
+as he has most of the people
+of this city and county.
+
+852
+00:57:51,885 --> 00:57:55,137
+Like most of them,
+we're a little tempted and a little afraid.
+
+853
+00:57:55,263 --> 00:57:59,141
+We're not gonna give in to Capone.
+Not to his threats, not to his bribes.
+
+854
+00:57:59,267 --> 00:58:01,227
+We're not gonna be swerved
+from our duty.
+
+855
+00:58:01,770 --> 00:58:04,397
+We want every citizen to help us
+by giving us information,
+
+856
+00:58:04,523 --> 00:58:06,440
+by lending us support.
+
+857
+00:58:06,566 --> 00:58:10,111
+We want everyone to know,
+especially AI Capone,
+
+858
+00:58:10,237 --> 00:58:13,447
+we can't be bought off,
+we won't be killed off.
+
+859
+00:58:19,037 --> 00:58:23,249
+"Today, Elliot Ness and his men have flung
+a challenge in the face of AI Capone.
+
+860
+00:58:23,375 --> 00:58:27,169
+"They have proved to Capone
+and his mob that they are untouchable.
+
+861
+00:58:27,295 --> 00:58:31,007
+"A few more untouchables like them,
+and Chicago can be..."
+
+862
+00:58:36,930 --> 00:58:38,431
+What's taking so long?
+
+863
+00:58:38,890 --> 00:58:40,433
+He's gotta find the right wires.
+
+864
+00:58:40,559 --> 00:58:43,894
+You stupid idiot!
+How could you let them tap your phone?
+
+865
+00:58:44,021 --> 00:58:45,855
+You know what this is gonna cost me?
+
+866
+00:58:45,981 --> 00:58:48,315
+- I ought to bleed it out of you, drop by drop.
+- A, B...
+
+867
+00:58:48,442 --> 00:58:51,444
+- Stupido!
+- ...C, D, E, F,
+
+868
+00:58:51,570 --> 00:58:55,364
+- G, H, I, J, K...
+- Stupid!
+
+869
+00:58:55,490 --> 00:58:58,784
+...L, M, N, O, P, Q...
+
+870
+00:59:01,872 --> 00:59:05,207
+'...V, W, X, Y, Z.
+
+871
+00:59:05,333 --> 00:59:07,168
+'A, B, C, D...'
+
+872
+00:59:07,294 --> 00:59:09,670
+I don't get this.
+He's going through the alphabet.
+
+873
+00:59:09,796 --> 00:59:13,883
+'...H, I, J, K, L, M,
+
+874
+00:59:14,009 --> 00:59:17,053
+'N, O, P, Q, R...'
+
+875
+00:59:17,179 --> 00:59:19,513
+- They're breaking our wiretap.
+- '...S, T, U, V...'
+
+876
+00:59:22,059 --> 00:59:28,064
+...H, I, J, K, L, M...
+
+877
+00:59:30,525 --> 00:59:32,193
+- ...P, Q...
+- Hey.
+
+878
+00:59:32,319 --> 00:59:34,236
+'...R, S...'
+
+879
+00:59:34,780 --> 00:59:35,988
+- ...T.
+- He got it.
+
+880
+00:59:38,158 --> 00:59:39,658
+Well...
+
+881
+00:59:44,915 --> 00:59:46,540
+They got it.
+
+882
+00:59:50,712 --> 00:59:53,172
+(Narrator) 'Without the tap
+of the Capone outfit's private phone,
+
+883
+00:59:53,298 --> 00:59:56,759
+'Elliot Ness had now only one possible source
+of inside information
+
+884
+00:59:56,885 --> 00:59:58,677
+'about Capone's activities.'
+
+885
+01:00:01,181 --> 01:00:03,307
+Mr. Kane, how are you?
+How are you?
+
+886
+01:00:03,433 --> 01:00:05,434
+- Say, does Mr. Ness know I'm out here?
+- Yeah, he knows you're here.
+
+887
+01:00:05,560 --> 01:00:08,145
+Oh, that's wonderful.
+Thank you, mister.
+
+888
+01:00:08,271 --> 01:00:10,397
+- Hi, Mr. Rossman. How are you?
+- Hello.
+
+889
+01:00:10,524 --> 01:00:12,733
+Nice to see you.
+
+890
+01:00:12,859 --> 01:00:14,276
+Hi.
+
+891
+01:00:19,658 --> 01:00:21,200
+You know his wife Brandy?
+
+892
+01:00:21,326 --> 01:00:24,203
+She's sporting a rock that big.
+Must be worth a couple of thousand bucks.
+
+893
+01:00:24,329 --> 01:00:26,622
+And Ritchie,
+all you gotta do is look at him.
+
+894
+01:00:26,748 --> 01:00:30,084
+He has a new car, an Auburn, very flashy.
+Has it parked around the corner.
+
+895
+01:00:30,877 --> 01:00:32,753
+Alright, let's set it up.
+
+896
+01:00:37,592 --> 01:00:38,968
+OK.
+
+897
+01:00:40,428 --> 01:00:42,304
+Come on in, George.
+
+898
+01:00:44,182 --> 01:00:45,808
+Hi, mister.
+
+899
+01:00:46,726 --> 01:00:48,435
+Well, hello, Mr. Ness.
+
+900
+01:00:48,562 --> 01:00:51,272
+- Hi, how are you?
+- Sit down, George.
+
+901
+01:00:51,398 --> 01:00:53,399
+That's a nice-looking suit
+you're wearing, George.
+
+902
+01:00:53,525 --> 01:00:55,317
+- Oh, this?
+- Yeah, new, huh?
+
+903
+01:00:55,443 --> 01:00:58,028
+- Well, yeah.
+- How did you get down here, George?
+
+904
+01:00:59,364 --> 01:01:00,656
+I come by the L.
+
+905
+01:01:00,782 --> 01:01:02,700
+What about the car you got parked
+around the corner?
+
+906
+01:01:02,826 --> 01:01:05,703
+Where did you get the money, George?
+Where did you get the money?
+
+907
+01:01:05,829 --> 01:01:07,371
+I made some money
+on the stock market.
+
+908
+01:01:07,497 --> 01:01:09,248
+The bottom's dropped out
+of the stock market.
+
+909
+01:01:09,374 --> 01:01:12,084
+- What's the name of your broker?
+- Hey, what...?
+
+910
+01:01:14,254 --> 01:01:16,380
+He's just a friend of Brandy's uncle,
+that's all.
+
+911
+01:01:16,506 --> 01:01:19,466
+- Jake Guzik's investing for you, huh?
+- Oh, no, not exactly that.
+
+912
+01:01:19,593 --> 01:01:22,678
+- You're playing ball with the mob, Georgie.
+- Double-crossing us, huh?
+
+913
+01:01:22,804 --> 01:01:24,805
+- I swear I haven't done anything like that!
+- You sold us out.
+
+914
+01:01:24,931 --> 01:01:26,807
+- What'd you tell 'em? What'd you give them?
+- Look, all I did was...
+
+915
+01:01:26,933 --> 01:01:28,017
+All you did was what, George?
+
+916
+01:01:28,143 --> 01:01:29,810
+- All I did was just promise.
+- Promise what?
+
+917
+01:01:29,936 --> 01:01:32,813
+I'd just find out what you were gonna do
+and let them know, that's all.
+
+918
+01:01:32,939 --> 01:01:35,191
+- But I wasn't gonna do it.
+- Why don't you cut it out?
+
+919
+01:01:35,317 --> 01:01:36,442
+No, honest, I wasn't.
+
+920
+01:01:36,568 --> 01:01:39,695
+The mob never pays before delivery, George.
+What did you deliver? What was it? What?
+
+921
+01:01:39,821 --> 01:01:42,823
+Alright. Just some names
+and addresses, that's all.
+
+922
+01:01:42,949 --> 01:01:44,950
+- Whose?
+- It was just yours...
+
+923
+01:01:45,076 --> 01:01:47,077
+- Come on.
+- There were just some others.
+
+924
+01:01:47,204 --> 01:01:50,748
+- And what else?
+- Nothing. Nothing. Nothing else.
+
+925
+01:01:50,874 --> 01:01:52,374
+I didn't do nothing. I just...
+
+926
+01:01:52,500 --> 01:01:53,584
+- What else?
+- Nothing else.
+
+927
+01:01:53,710 --> 01:01:55,586
+- What else?
+- Alright, I just...
+
+928
+01:01:55,712 --> 01:01:57,880
+I just drew a plan of the office,
+that's all.
+
+929
+01:01:58,006 --> 01:01:59,006
+- What else?
+- That's all.
+
+930
+01:01:59,132 --> 01:02:01,050
+- What else?
+- That's all. That's all, nothing else.
+
+931
+01:02:01,176 --> 01:02:02,760
+- What else?
+- I swear, nothing else. I swear!
+
+932
+01:02:02,886 --> 01:02:05,346
+Look, I just promised whatever they asked,
+that's all. I just promised.
+
+933
+01:02:05,472 --> 01:02:07,181
+I promised. I just promised.
+
+934
+01:02:07,307 --> 01:02:08,933
+George, listen.
+
+935
+01:02:09,726 --> 01:02:11,352
+Now you're gonna do something
+for me.
+
+936
+01:02:12,979 --> 01:02:15,522
+Oh, Mr. Ness, I'm on your side.
+
+937
+01:02:15,649 --> 01:02:17,149
+I heard rumors the mob has a brewery.
+
+938
+01:02:17,275 --> 01:02:18,776
+- A real big one, the biggest.
+- No, no, no.
+
+939
+01:02:18,902 --> 01:02:20,819
+Come on, George,
+you must have heard about it.
+
+940
+01:02:20,946 --> 01:02:23,447
+- No, nothing definite.
+- Where's the brewery, George?
+
+941
+01:02:23,573 --> 01:02:25,115
+- Where is it? Where's the brewery?
+- I don't know.
+
+942
+01:02:25,242 --> 01:02:26,784
+What do you mean, you don't know?
+Where is it?
+
+943
+01:02:26,910 --> 01:02:28,869
+- Look, I don't know.
+- George!
+
+944
+01:02:30,121 --> 01:02:33,457
+Suppose we let the mob know
+how we managed to tap their phone.
+
+945
+01:02:33,583 --> 01:02:36,085
+Suppose we let them know
+how you got our man into the Montmartre.
+
+946
+01:02:37,170 --> 01:02:38,671
+You wouldn’t do that, Mr. Ness.
+
+947
+01:02:38,797 --> 01:02:41,048
+- Why can't we?
+- They'd kill me. They'd kill me in a minute.
+
+948
+01:02:41,174 --> 01:02:43,092
+- They'd let me have it.
+- We know.
+
+949
+01:02:43,218 --> 01:02:45,552
+Look, Mr. Ness, give me another chance.
+I'll be on the level with you in the future.
+
+950
+01:02:45,679 --> 01:02:48,222
+- Too late, George. Too late. Too late.
+- Where's the big brewery?
+
+951
+01:02:48,348 --> 01:02:50,474
+I don't know. I don't...
+
+952
+01:02:54,187 --> 01:02:57,147
+Alright, let's just say they got one.
+They got one.
+
+953
+01:02:57,274 --> 01:02:58,941
+They're getting half their beer
+from it.
+
+954
+01:02:59,067 --> 01:03:03,654
+But I don't know exactly where it is.
+I just don't know. All I know is that...
+
+955
+01:03:13,707 --> 01:03:16,709
+Look, it's somewhere
+near the stockyards.
+
+956
+01:03:16,835 --> 01:03:19,670
+Now, that's all I know.
+Now, you gotta believe me about that.
+
+957
+01:03:21,381 --> 01:03:23,048
+Look, I swear.
+
+958
+01:03:25,176 --> 01:03:26,552
+Please, believe me.
+
+959
+01:03:29,639 --> 01:03:31,223
+Look, I swear.
+
+960
+01:03:37,480 --> 01:03:38,939
+George.
+
+961
+01:03:39,566 --> 01:03:42,401
+George, you're gonna do one more thing,
+then you're through.
+
+962
+01:03:42,527 --> 01:03:45,195
+And we'll take you away
+someplace safe.
+
+963
+01:03:45,322 --> 01:03:47,489
+You're gonna find out
+where that brewery is.
+
+964
+01:03:48,950 --> 01:03:51,410
+How am I gonna do that, Mr. Ness?
+
+965
+01:03:51,536 --> 01:03:52,745
+From Uncle Jake.
+
+966
+01:04:10,430 --> 01:04:12,931
+(Narrator) 'Two nights later,
+George Ritchie and his wife Brandy
+
+967
+01:04:13,058 --> 01:04:15,309
+'had dinner with Brandy's uncle,
+Jake Guzik.
+
+968
+01:04:15,435 --> 01:04:17,436
+'Ritchie tried to get information
+from Guzik
+
+969
+01:04:17,562 --> 01:04:20,981
+'about the location
+of the key Capone brewery.'
+
+970
+01:04:21,107 --> 01:04:23,776
+I hear he got a big setup
+the feds will never find.
+
+971
+01:04:23,902 --> 01:04:25,652
+I hear it's real covered up, huh?
+
+972
+01:04:25,779 --> 01:04:27,696
+- You heard?
+- Yeah.
+
+973
+01:04:27,822 --> 01:04:29,406
+Where is it anyway?
+
+974
+01:04:29,532 --> 01:04:30,991
+You can tell me.
+
+975
+01:04:31,868 --> 01:04:35,245
+I mean, you don't have to keep
+any secrets from me.
+
+976
+01:04:36,373 --> 01:04:37,915
+Georgie, eat your soup.
+
+977
+01:04:38,041 --> 01:04:40,793
+Yeah, Georgie, eat your soup.
+
+978
+01:04:40,919 --> 01:04:42,878
+Yes, Brandy.
+
+979
+01:04:44,881 --> 01:04:46,423
+(Narrator)
+'Much later that same night,
+
+980
+01:04:46,549 --> 01:04:49,426
+'George Ritchie waited in the wings
+of a State Street burlesque theater
+
+981
+01:04:49,552 --> 01:04:52,513
+'for Brandy, his wife, to finish her act.'
+
+982
+01:04:52,639 --> 01:04:54,598
+(♪ Big band music playing)
+
+983
+01:04:56,935 --> 01:05:01,188
+♪ Like Jack Horner in a corner
+
+984
+01:05:01,314 --> 01:05:02,815
+♪ Don't go nowhere
+
+985
+01:05:03,358 --> 01:05:05,401
+♪ What do I care?
+
+986
+01:05:05,527 --> 01:05:09,613
+♪ Your kiss is all worth waiting for
+
+987
+01:05:10,323 --> 01:05:13,075
+♪ Believe me... ♪
+
+988
+01:05:14,202 --> 01:05:16,203
+(♪ Song continues)
+
+989
+01:05:16,329 --> 01:05:19,206
+Hello, Georgie.
+We got something to discuss with you.
+
+990
+01:05:19,332 --> 01:05:21,667
+Yeah? Well, can we wait
+till Brandy gets through?
+
+991
+01:05:21,793 --> 01:05:23,043
+I try never to miss her act.
+
+992
+01:05:23,169 --> 01:05:26,213
+Well, you'll wanna miss it tonight, Georgie.
+Snorky wants to see you.
+
+993
+01:05:26,339 --> 01:05:28,799
+He got something real important
+he wants you to do for him.
+
+994
+01:05:28,925 --> 01:05:31,093
+AI Capone?
+He wants to see me?
+
+995
+01:05:31,219 --> 01:05:32,886
+He's got something important
+for me?
+
+996
+01:05:33,012 --> 01:05:34,972
+Real important, Georgie.
+
+997
+01:05:35,098 --> 01:05:36,890
+He's gonna make a big man
+out of you.
+
+998
+01:05:37,016 --> 01:05:38,767
+No kidding?
+
+999
+01:05:38,893 --> 01:05:41,186
+(Crowd cheering)
+
+1000
+01:05:43,565 --> 01:05:45,357
+(Whistling)
+
+1001
+01:06:07,922 --> 01:06:10,674
+Gee, I hate to miss
+Brandy's finish, but...
+
+1002
+01:06:10,800 --> 01:06:13,260
+Snorky - that's important,
+that's something, huh?
+
+1003
+01:06:13,386 --> 01:06:15,846
+- Good. Come on, Georgie.
+- Hey, wait a minute.
+
+1004
+01:06:15,972 --> 01:06:19,183
+- She'll get through in a couple of minutes...
+- But Snorky is waiting for you.
+
+1005
+01:06:19,309 --> 01:06:21,435
+- (Crowd cheering, whistling)
+- Come on, let's go.
+
+1006
+01:06:38,369 --> 01:06:39,578
+(Narrator)
+'Three miles from the theater,
+
+1007
+01:06:39,704 --> 01:06:42,623
+'Betty Anderson had just received
+a late telephone call
+
+1008
+01:06:42,749 --> 01:06:44,958
+'from her fiancé, Elliot Ness.
+
+1009
+01:06:45,084 --> 01:06:48,253
+'They made arrangements
+to have lunch the following day.
+
+1010
+01:06:48,379 --> 01:06:49,922
+'In a happy frame of mind,
+
+1011
+01:06:50,048 --> 01:06:52,299
+'Betty Anderson
+was ready to go to sleep.
+
+1012
+01:06:52,425 --> 01:06:53,425
+(Knocking on door)
+
+1013
+01:06:54,761 --> 01:06:57,471
+- Who is it?
+- (Man) Night wire for Betty Anderson.
+
+1014
+01:06:58,598 --> 01:07:01,600
+- What?
+- It's the night wire for Betty Anderson.
+
+1015
+01:07:06,022 --> 01:07:07,606
+(Screams)
+
+1016
+01:07:08,525 --> 01:07:10,192
+No scream.
+
+1017
+01:07:11,152 --> 01:07:12,736
+(Gasps)
+
+1018
+01:07:20,620 --> 01:07:22,746
+This guy Ness
+has got something here.
+
+1019
+01:07:26,125 --> 01:07:28,544
+He's keeping it all to himself.
+
+1020
+01:07:58,116 --> 01:08:00,867
+(Sobbing) Oh, God!
+
+1021
+01:08:09,794 --> 01:08:11,253
+Operator.
+
+1022
+01:08:11,379 --> 01:08:14,423
+Superior 7599.
+
+1023
+01:08:14,549 --> 01:08:16,550
+(Phone ringing)
+
+1024
+01:08:16,676 --> 01:08:19,177
+- Hello?
+- Elliot!
+
+1025
+01:08:19,304 --> 01:08:22,389
+Elliot, come right away, please.
+Get over here right away.
+
+1026
+01:08:22,515 --> 01:08:24,308
+I'll be right there.
+
+1027
+01:08:25,476 --> 01:08:27,519
+(Tires screeching)
+
+1028
+01:08:36,988 --> 01:08:38,614
+(Woman screaming)
+
+1029
+01:08:44,287 --> 01:08:46,538
+(Indistinct chatter)
+
+1030
+01:08:56,090 --> 01:08:57,507
+(Woman gasping)
+
+1031
+01:09:15,026 --> 01:09:17,235
+(Sobbing)
+
+1032
+01:09:20,448 --> 01:09:22,699
+Betty. Betty, honey.
+
+1033
+01:09:22,825 --> 01:09:24,409
+They'll never get at you, I swear.
+
+1034
+01:09:25,411 --> 01:09:27,621
+Elliot, what are they?
+
+1035
+01:09:27,747 --> 01:09:29,039
+I know what they do.
+
+1036
+01:09:29,165 --> 01:09:31,958
+I know the things they do,
+but I can't understand,
+
+1037
+01:09:32,085 --> 01:09:33,418
+what are they?
+
+1038
+01:09:33,544 --> 01:09:35,545
+They're warped, sadistic,
+rotten little cowards.
+
+1039
+01:09:35,672 --> 01:09:37,506
+Well, how do we let them get away?
+
+1040
+01:09:37,632 --> 01:09:41,385
+Behind crooked cops and corrupt politicians.
+They hide behind their guns.
+
+1041
+01:09:42,637 --> 01:09:44,388
+Now we're making them come out.
+
+1042
+01:09:44,514 --> 01:09:46,431
+They're afraid. That's why
+they have to try to frighten us,
+
+1043
+01:09:46,557 --> 01:09:49,184
+- like breaking into your room.
+- (Phone ringing)
+
+1044
+01:09:50,103 --> 01:09:51,436
+Hello?
+
+1045
+01:09:51,562 --> 01:09:53,438
+Yes, this is Betty Anderson.
+
+1046
+01:09:54,816 --> 01:09:57,317
+What?
+What did you say?
+
+1047
+01:09:57,443 --> 01:09:59,736
+I said, baby,
+I've been thinking about you.
+
+1048
+01:09:59,862 --> 01:10:01,321
+You looked pretty good.
+
+1049
+01:10:01,447 --> 01:10:03,448
+Maybe I'm coming back
+with some of the boys.
+
+1050
+01:10:04,909 --> 01:10:06,910
+(Sobbing)
+
+1051
+01:10:08,913 --> 01:10:10,622
+Betty, what is it?
+Tell me, what is it?
+
+1052
+01:10:10,748 --> 01:10:12,833
+He said they're coming back.
+
+1053
+01:10:12,959 --> 01:10:16,795
+He said they're coming here again, Elliot.
+Please, don't let them come back!
+
+1054
+01:10:16,921 --> 01:10:18,422
+Please!
+
+1055
+01:10:18,548 --> 01:10:20,757
+(Phone ringing)
+
+1056
+01:10:26,973 --> 01:10:30,392
+Baby, we got disconnected,
+and I'm trying to make a connection.
+
+1057
+01:10:30,518 --> 01:10:32,561
+You stinking little rat.
+
+1058
+01:10:33,771 --> 01:10:37,899
+I'm gonna get you and tear you limb from limb,
+you lousy little yellow rat!
+
+1059
+01:10:38,025 --> 01:10:40,902
+Oh, that you, Ness?
+We got plans for you too, Ness.
+
+1060
+01:10:41,028 --> 01:10:43,196
+The boys are gonna have
+a real party.
+
+1061
+01:10:43,322 --> 01:10:44,656
+You told him enough.
+
+1062
+01:10:52,457 --> 01:10:55,709
+They'll never get at you, I promise you.
+This I promise.
+
+1063
+01:10:57,795 --> 01:11:00,005
+We're getting married now.
+We're not waiting.
+
+1064
+01:11:00,131 --> 01:11:01,339
+You mean tonight?
+
+1065
+01:11:01,466 --> 01:11:03,633
+We'll cross the line to Indiana,
+get a justice of the peace.
+
+1066
+01:11:03,760 --> 01:11:05,969
+Is... Is this because of the phone call?
+
+1067
+01:11:06,095 --> 01:11:09,139
+There's a lot of things,
+because of the phone call included.
+
+1068
+01:11:09,265 --> 01:11:12,476
+So, I'm not sure what's gonna happen
+from now on, and...
+
+1069
+01:11:12,602 --> 01:11:14,186
+I don't wanna wait, do you?
+
+1070
+01:11:14,312 --> 01:11:17,773
+Oh! No, I wanna be with you.
+
+1071
+01:11:19,317 --> 01:11:21,318
+Better get ready, honey.
+
+1072
+01:11:25,072 --> 01:11:27,365
+(Phone ringing)
+
+1073
+01:11:35,750 --> 01:11:38,710
+By the authority vested in me
+by the state of Indiana,
+
+1074
+01:11:38,836 --> 01:11:41,630
+I now pronounce you man and wife.
+
+1075
+01:11:45,176 --> 01:11:47,552
+Good wishes, my dear.
+
+1076
+01:11:48,763 --> 01:11:51,765
+- Congratulations.
+- Thank you, Joe.
+
+1077
+01:11:55,102 --> 01:11:56,895
+I know you're both
+gonna be very happy.
+
+1078
+01:11:57,021 --> 01:11:58,730
+Thanks, Joe. We will be.
+
+1079
+01:11:58,856 --> 01:12:00,524
+God bless you.
+
+1080
+01:12:05,988 --> 01:12:07,489
+(♪ Music playing)
+
+1081
+01:12:07,615 --> 01:12:09,366
+(Sobbing)
+
+1082
+01:12:10,159 --> 01:12:14,162
+Miss LaFrance, you know who it was
+who killed your husband, don't you?
+
+1083
+01:12:14,789 --> 01:12:17,499
+No. No, I don't know.
+
+1084
+01:12:18,501 --> 01:12:22,128
+I don't know why anyone
+would wanna kill Georgie.
+
+1085
+01:12:22,255 --> 01:12:25,048
+He was a real nice guy.
+
+1086
+01:12:25,174 --> 01:12:27,676
+We think the Capone mob did it.
+
+1087
+01:12:28,928 --> 01:12:31,096
+Don't you wanna help us?
+
+1088
+01:12:31,222 --> 01:12:34,641
+No, Uncle Jake
+wouldn’t let them kill him.
+
+1089
+01:12:34,767 --> 01:12:36,476
+He wouldn’t do a thing like that.
+
+1090
+01:12:38,271 --> 01:12:41,439
+Are you sure that the last time
+you saw him was back in the wings?
+
+1091
+01:12:41,566 --> 01:12:43,942
+He was watching me do my number.
+
+1092
+01:12:44,068 --> 01:12:45,652
+(♪ Music stops, applause)
+
+1093
+01:12:45,778 --> 01:12:48,071
+He was always watching me
+do my number.
+
+1094
+01:12:50,074 --> 01:12:52,492
+(♪ Music resumes)
+
+1095
+01:12:52,618 --> 01:12:54,494
+That's my cue.
+
+1096
+01:12:56,163 --> 01:12:58,331
+The last time I danced, he...
+
+1097
+01:12:59,166 --> 01:13:01,585
+...was standing right there
+in the wing.
+
+1098
+01:13:05,047 --> 01:13:08,049
+Why would anyone wanna kill
+poor Georgie?
+
+1099
+01:13:09,760 --> 01:13:11,469
+He was...
+
+1100
+01:13:12,221 --> 01:13:14,139
+...such a nice little guy.
+
+1101
+01:13:21,522 --> 01:13:24,733
+If George Ritchie's tip was right,
+Capone's big one is somewhere in here.
+
+1102
+01:13:24,859 --> 01:13:27,110
+We're gonna have to check out every building
+above and below ground,
+
+1103
+01:13:27,236 --> 01:13:29,571
+see if someone, resident merchant,
+anyone, can give us a lead.
+
+1104
+01:13:29,697 --> 01:13:32,198
+- Fat chance.
+- We'll take that chance.
+
+1105
+01:13:32,325 --> 01:13:34,618
+- Joe, you know some people in that district?
+- I know a few.
+
+1106
+01:13:34,744 --> 01:13:36,745
+- Let's get something from them.
+- I'm on my way.
+
+1107
+01:13:36,871 --> 01:13:39,289
+Alright, Hansen, you and Youngfellow
+start covering all garages.
+
+1108
+01:13:39,415 --> 01:13:41,791
+Kane and Flaherty
+will cover stores and food suppliers.
+
+1109
+01:13:41,918 --> 01:13:44,920
+Kopka and Rossman, start checking
+all residents near speakeasies.
+
+1110
+01:13:45,046 --> 01:13:47,255
+We gotta get a breakthrough
+somewhere and fast.
+
+1111
+01:13:52,553 --> 01:13:56,056
+Maybe there is this brewery,
+but I don't know nothing about it.
+
+1112
+01:13:56,182 --> 01:13:57,849
+- Who gonna tell me?
+- Stop that, Picco.
+
+1113
+01:13:57,975 --> 01:13:59,517
+You remember the old days?
+
+1114
+01:13:59,644 --> 01:14:02,479
+You and my old man, you were
+very good friends, you remember?
+
+1115
+01:14:02,605 --> 01:14:04,105
+Yeah, I remember.
+
+1116
+01:14:04,231 --> 01:14:07,525
+You were always very nice to me,
+Joe. But I...
+
+1117
+01:14:07,652 --> 01:14:09,486
+I just thought maybe
+you heard something, that's all.
+
+1118
+01:14:09,612 --> 01:14:11,321
+When I work, I'm deaf.
+
+1119
+01:14:11,447 --> 01:14:14,157
+I don't wanna see, I don't wanna hear,
+I don't wanna know.
+
+1120
+01:14:14,283 --> 01:14:15,909
+Can't you just hear this one thing?
+
+1121
+01:14:18,037 --> 01:14:19,162
+Do me a favor.
+
+1122
+01:14:19,288 --> 01:14:21,790
+Well, this a favor I wouldn’t do,
+even if I could.
+
+1123
+01:14:21,916 --> 01:14:23,792
+You ought to know that, Joe.
+
+1124
+01:14:23,918 --> 01:14:25,627
+OK.
+
+1125
+01:14:27,964 --> 01:14:31,049
+- Stay, have a glass of red, Joe.
+- I can't, I'm working.
+
+1126
+01:14:31,175 --> 01:14:32,968
+- You ain't sore at me?
+- No.
+
+1127
+01:14:33,094 --> 01:14:34,844
+I don't know nothing.
+
+1128
+01:14:34,971 --> 01:14:37,097
+This is honest truth.
+
+1129
+01:14:37,807 --> 01:14:40,642
+You're the only guy nice to him, Joe.
+
+1130
+01:14:40,768 --> 01:14:44,396
+He likes you. He don't take to people,
+but he likes you.
+
+1131
+01:14:44,522 --> 01:14:47,774
+Dogs got a good instinct, Joe.
+They know.
+
+1132
+01:14:51,320 --> 01:14:53,321
+Say, why don't you come
+to the house next week?
+
+1133
+01:14:53,447 --> 01:14:54,864
+Have dinner.
+
+1134
+01:14:55,449 --> 01:14:57,158
+That's nice.
+
+1135
+01:14:57,284 --> 01:14:59,077
+I'll bring you a bottle of red.
+
+1136
+01:14:59,203 --> 01:15:01,079
+The real stuff from other side.
+
+1137
+01:15:01,205 --> 01:15:03,707
+You bring that bottle,
+I'll break it over your head.
+
+1138
+01:15:03,833 --> 01:15:06,710
+Can't you get it through your thick skull
+I'm working for the government?
+
+1139
+01:15:06,836 --> 01:15:08,086
+Oh.
+
+1140
+01:15:10,923 --> 01:15:12,757
+Yeah.
+
+1141
+01:15:12,883 --> 01:15:15,593
+I'll bring it, Joe.
+
+1142
+01:15:40,661 --> 01:15:43,329
+- (Gasping)
+- Scusate!
+
+1143
+01:15:44,415 --> 01:15:46,166
+Scusate!
+
+1144
+01:15:55,468 --> 01:15:57,469
+Never mind that. Here.
+
+1145
+01:15:58,512 --> 01:16:00,346
+Take this in.
+
+1146
+01:16:32,296 --> 01:16:34,923
+(Narrator) 'The Mafia ritual known
+as the kiss of death.
+
+1147
+01:16:35,049 --> 01:16:38,468
+'The man being ceremonially kissed
+by the others in this room
+
+1148
+01:16:38,594 --> 01:16:40,470
+'had been chosen to commit a murder.'
+
+1149
+01:17:24,974 --> 01:17:27,100
+- You're home, boss.
+- Hmm?
+
+1150
+01:17:27,226 --> 01:17:30,687
+Why don't you and the bride go away
+for a couple of days and relax?
+
+1151
+01:17:30,813 --> 01:17:32,564
+Get everything off your mind.
+
+1152
+01:17:32,690 --> 01:17:34,816
+I will when this is over.
+
+1153
+01:17:34,942 --> 01:17:37,861
+If we can knock over this big brewery,
+it might be over sooner than you think.
+
+1154
+01:17:37,987 --> 01:17:40,697
+- We gotta locate it first.
+- We will.
+
+1155
+01:17:42,158 --> 01:17:44,200
+Joe, three guys like you
+are an army.
+
+1156
+01:17:44,326 --> 01:17:47,078
+- Three guys? Two guys.
+- (Both laughing)
+
+1157
+01:17:48,122 --> 01:17:51,666
+- You wanna come up for a minute?
+- No, no, you give my best to your bride.
+
+1158
+01:17:51,792 --> 01:17:53,835
+- What time will I pick you up in the morning?
+- 08:30.
+
+1159
+01:17:53,961 --> 01:17:55,753
+- You got it.
+- (Tires screeching)
+
+1160
+01:17:58,257 --> 01:17:59,924
+- Watch it.
+- (Gunfire)
+
+1161
+01:18:03,220 --> 01:18:04,470
+(Groans)
+
+1162
+01:18:15,983 --> 01:18:17,775
+Elliot!
+
+1163
+01:18:21,030 --> 01:18:23,031
+Oh, Elliot.
+
+1164
+01:18:27,369 --> 01:18:29,537
+(Sobs)
+
+1165
+01:18:31,624 --> 01:18:34,542
+(Narrator) 'While Joe Fuselli was dying
+on a Chicago street,
+
+1166
+01:18:34,668 --> 01:18:37,879
+'AI Capone was dining,
+visible to scores of people
+
+1167
+01:18:38,005 --> 01:18:40,715
+- 'in a Chicago night club.'
+- (♪ Big band music playing)
+
+1168
+01:19:11,747 --> 01:19:13,039
+Frank.
+
+1169
+01:19:14,083 --> 01:19:16,626
+Hey, dancer. Dancer.
+
+1170
+01:19:17,544 --> 01:19:19,963
+Hey, kid, you're good,
+you're gonna go places.
+
+1171
+01:19:20,089 --> 01:19:23,132
+Here, this will help you on your way.
+
+1172
+01:19:23,259 --> 01:19:25,677
+Gee, thanks, Mr. Capone.
+Thanks a million.
+
+1173
+01:19:40,025 --> 01:19:42,485
+- What's your name?
+- Dolly.
+
+1174
+01:19:49,743 --> 01:19:52,245
+Padre, Figlio e Spirito Santo.
+
+1175
+01:19:52,371 --> 01:19:53,871
+Amen.
+
+1176
+01:19:53,998 --> 01:19:56,165
+Joe was my friend.
+
+1177
+01:19:56,292 --> 01:19:58,209
+He never laughed at me.
+
+1178
+01:19:58,335 --> 01:20:00,712
+Never pushed me around.
+
+1179
+01:20:00,838 --> 01:20:02,046
+What did you see, Picco?
+
+1180
+01:20:02,172 --> 01:20:04,674
+I ain't gonna let them get away
+with killing Joe.
+
+1181
+01:20:04,800 --> 01:20:07,010
+If I had known
+they were gonna kill Joe,
+
+1182
+01:20:07,136 --> 01:20:10,305
+I'd have grabbed a knife
+and then ripped them myself.
+
+1183
+01:20:11,557 --> 01:20:12,598
+Who were they?
+
+1184
+01:20:13,976 --> 01:20:16,894
+It was Nitti. Frank Nitti.
+
+1185
+01:20:17,021 --> 01:20:19,939
+And Volpe and D'Andrea.
+
+1186
+01:20:20,065 --> 01:20:21,733
+And the big fellow was there.
+
+1187
+01:20:22,651 --> 01:20:24,569
+- Capone?
+- Cornuto!
+
+1188
+01:20:25,654 --> 01:20:26,696
+What did they do?
+
+1189
+01:20:28,532 --> 01:20:30,867
+Bacio di morte.
+
+1190
+01:20:30,993 --> 01:20:32,368
+You know what that is?
+
+1191
+01:20:34,413 --> 01:20:36,080
+Kiss of death.
+
+1192
+01:20:37,333 --> 01:20:39,208
+Which one did they kiss?
+
+1193
+01:20:40,961 --> 01:20:43,171
+Jimmy Napoli was the one.
+
+1194
+01:20:43,297 --> 01:20:45,673
+Nitti, Volpe and D'Andrea.
+
+1195
+01:20:46,884 --> 01:20:48,885
+They sent Jimmy Napoli.
+
+1196
+01:20:49,720 --> 01:20:51,095
+Who's Jimmy Napoli?
+
+1197
+01:20:52,598 --> 01:20:54,557
+From Brooklyn, the "Torpedo".
+
+1198
+01:20:57,311 --> 01:20:59,228
+I lied to Joe.
+
+1199
+01:20:59,355 --> 01:21:02,440
+The last thing
+I said to him alive, a lie.
+
+1200
+01:21:03,484 --> 01:21:06,319
+He asked me
+where Capone's big brewery is.
+
+1201
+01:21:06,445 --> 01:21:08,780
+I lied, "I didn't know."
+
+1202
+01:21:08,906 --> 01:21:10,823
+But I just know where it is.
+
+1203
+01:21:10,949 --> 01:21:12,700
+I'm gonna tell you, too.
+
+1204
+01:21:15,371 --> 01:21:17,121
+Thanks.
+
+1205
+01:21:21,001 --> 01:21:24,504
+Picco, we're gonna take you
+somewhere where you'll be safe.
+
+1206
+01:21:24,630 --> 01:21:27,340
+Come on,
+we'll take good care of you, Picco.
+
+1207
+01:21:29,051 --> 01:21:32,845
+What's going to be with my dog?
+Who's going to take care of my dog?
+
+1208
+01:21:40,479 --> 01:21:43,856
+- Here. Take your dog, Picco.
+- Thanks.
+
+1209
+01:22:07,089 --> 01:22:08,881
+Hey! What's this all about?
+
+1210
+01:22:09,800 --> 01:22:11,968
+- Joe Fuselli.
+- Who?
+
+1211
+01:22:12,761 --> 01:22:15,972
+- Say, who are you guys anyway?
+- Federal men.
+
+1212
+01:22:16,098 --> 01:22:18,474
+- Where were you all night?
+- You run my life?
+
+1213
+01:22:20,227 --> 01:22:21,727
+Hasn't been slept in.
+
+1214
+01:22:22,604 --> 01:22:24,147
+Come on, Napoli.
+
+1215
+01:22:24,273 --> 01:22:25,815
+- What's the rap?
+- Come on.
+
+1216
+01:22:25,941 --> 01:22:27,817
+Wait a minute, I gotta get dressed.
+
+1217
+01:22:27,943 --> 01:22:30,069
+Just put your coat on.
+
+1218
+01:22:32,322 --> 01:22:35,199
+Listen, you got nothing on me.
+
+1219
+01:22:35,325 --> 01:22:38,453
+I was playing poker with six other guys
+until an hour ago.
+
+1220
+01:22:38,579 --> 01:22:41,247
+How would you like a dumdum
+right in the face like Joe Fuselli?
+
+1221
+01:22:41,373 --> 01:22:45,293
+I was playing with my friends
+till an hour ago, I'm telling you.
+
+1222
+01:22:45,419 --> 01:22:48,629
+They'll back me up.
+You can't touch me.
+
+1223
+01:22:49,506 --> 01:22:50,631
+Come on.
+
+1224
+01:22:50,757 --> 01:22:54,051
+Say, who is this Joe Fuselli?
+
+1225
+01:22:57,598 --> 01:22:59,390
+Never mention that name again.
+
+1226
+01:23:05,898 --> 01:23:07,356
+(Narrator)
+'To safeguard the only witness
+
+1227
+01:23:07,483 --> 01:23:10,943
+'who could definitely link AI Capone
+with the murder of Joe Fuselli,
+
+1228
+01:23:11,069 --> 01:23:14,071
+'Ness made arrangements
+to keep Angelo Picco under guard
+
+1229
+01:23:14,198 --> 01:23:16,657
+'in a cell in Chicago City Jail.
+
+1230
+01:23:30,923 --> 01:23:33,090
+We don't wanna lock you up,
+but this is the best pIace.
+
+1231
+01:23:33,217 --> 01:23:36,636
+- Later, we'll take you somewhere out of town.
+- Please, don't keep me too long.
+
+1232
+01:23:36,762 --> 01:23:39,305
+Just until you testify
+against Napoli and Capone.
+
+1233
+01:23:39,431 --> 01:23:42,475
+- Not too long.
+- I'll be close by, Picco.
+
+1234
+01:23:51,527 --> 01:23:54,529
+Nel nome del Padre,
+del Figlio e dello Spirito Santo.
+
+1235
+01:23:54,655 --> 01:23:56,113
+Amen.
+
+1236
+01:23:57,241 --> 01:23:59,700
+(Narrator) 'Within two hours of the arrest
+of Jimmy Napoli,
+
+1237
+01:23:59,826 --> 01:24:02,870
+'AI Capone forestalled his own arrest
+by appearing at the office
+
+1238
+01:24:02,996 --> 01:24:06,874
+'of Deputy Police Commissioner Hallowell.
+'With him was the mob's attorneys.'
+
+1239
+01:24:07,000 --> 01:24:09,710
+Well, Commissioner.
+
+1240
+01:24:09,836 --> 01:24:11,837
+- I heard you was looking for me.
+- That's right, AI.
+
+1241
+01:24:11,964 --> 01:24:13,548
+We have a few things to ask you.
+
+1242
+01:24:13,674 --> 01:24:16,050
+- That's why I'm here.
+- Before you ask any questions,
+
+1243
+01:24:16,176 --> 01:24:19,011
+it's understood that Mr. Capone
+is here of his own free will.
+
+1244
+01:24:19,137 --> 01:24:22,390
+Just what is the charge in connection
+with which you wish to question Mr. Capone?
+
+1245
+01:24:22,516 --> 01:24:24,517
+About the murder of a federal agent.
+
+1246
+01:24:25,227 --> 01:24:28,312
+- When did this alleged homicide occur?
+- At 1 :15 this morning.
+
+1247
+01:24:28,438 --> 01:24:31,649
+At that hour, Mr. Capone
+was dining at the 318 Club.
+
+1248
+01:24:31,775 --> 01:24:32,817
+How do you know?
+
+1249
+01:24:32,943 --> 01:24:36,070
+We can produce a number
+of reliable witnesses to attest to that.
+
+1250
+01:24:36,196 --> 01:24:39,323
+- I bet you can.
+- We have a witness, too.
+
+1251
+01:24:39,449 --> 01:24:42,201
+You didn't kiss Jimmy Napoli for fun,
+did you, AI?
+
+1252
+01:24:42,327 --> 01:24:44,412
+(Laughs)
+
+1253
+01:24:44,538 --> 01:24:47,123
+Who... Who is this Jimmy Napoli?
+
+1254
+01:24:47,249 --> 01:24:49,083
+Give me the city jail.
+
+1255
+01:25:51,188 --> 01:25:55,149
+(Narrator) 'Once again, a man who could've
+testified for the state had been silenced.
+
+1256
+01:25:55,275 --> 01:25:57,568
+'There could now be no way of proving
+
+1257
+01:25:57,694 --> 01:26:00,655
+'that Capone had hired Jimmy Napoli
+to commit murder.'
+
+1258
+01:26:18,173 --> 01:26:20,049
+(Indistinct shouting)
+
+1259
+01:26:20,175 --> 01:26:21,759
+Take it easy.
+
+1260
+01:26:21,885 --> 01:26:25,096
+- Make a statement, AI.
+- Take it easy, fellas, relax.
+
+1261
+01:26:25,222 --> 01:26:27,098
+Yeah, yeah, yeah.
+
+1262
+01:26:27,224 --> 01:26:30,810
+Everything that happened in Chicago,
+they say AI Capone did.
+
+1263
+01:26:30,936 --> 01:26:32,895
+They try to make me the goat.
+
+1264
+01:26:33,021 --> 01:26:36,941
+Now, you fellas know that all I ever did
+was to sell it to the best people.
+
+1265
+01:26:37,067 --> 01:26:39,527
+- Maybe that includes some of you boys, huh?
+- (Laughter)
+
+1266
+01:26:39,653 --> 01:26:41,946
+- How about another statement, AI?
+- Hey! You want some more pictures?
+
+1267
+01:26:42,072 --> 01:26:43,739
+(Indistinct shouting)
+
+1268
+01:26:46,660 --> 01:26:48,119
+This is gonna be the big one.
+
+1269
+01:26:48,245 --> 01:26:51,330
+I'll need about a dozen more men,
+the best you can get for us.
+
+1270
+01:26:51,456 --> 01:26:53,165
+But I don't want them to know
+what they're going out on.
+
+1271
+01:26:53,291 --> 01:26:55,668
+I want them to meet us
+at the warehouse at midnight sharp.
+
+1272
+01:26:55,794 --> 01:26:57,712
+I'll lay it out for them then,
+but not until then.
+
+1273
+01:26:57,838 --> 01:26:59,922
+I don't wanna take chances
+on a tip-off.
+
+1274
+01:27:00,048 --> 01:27:03,008
+All they have to know is to meet us
+at the warehouse at midnight sharp.
+
+1275
+01:27:05,095 --> 01:27:07,304
+(Narrator) 'At midnight,
+a rendezvous was made with other agents
+
+1276
+01:27:07,431 --> 01:27:09,598
+'in the warehouse used by Ness's squad.
+
+1277
+01:27:09,725 --> 01:27:11,767
+'The men were briefed
+on their assignments.'
+
+1278
+01:27:11,893 --> 01:27:14,854
+To help you find the way, I'm putting
+one of my own men on each of the cars.
+
+1279
+01:27:14,980 --> 01:27:17,606
+They'll be in charge after we get inside.
+
+1280
+01:27:17,733 --> 01:27:20,484
+We don't know the layout,
+but you'll be able to size things up fast.
+
+1281
+01:27:20,610 --> 01:27:22,987
+If there's any resistance,
+let them have it.
+
+1282
+01:27:23,113 --> 01:27:24,321
+Any questions?
+
+1283
+01:27:24,865 --> 01:27:26,449
+Let's go.
+
+1284
+01:27:46,970 --> 01:27:48,262
+(Tires screeching)
+
+1285
+01:28:09,326 --> 01:28:10,993
+(Groans)
+
+1286
+01:28:14,247 --> 01:28:15,664
+(Groans)
+
+1287
+01:28:23,757 --> 01:28:25,382
+Argh!
+
+1288
+01:28:29,679 --> 01:28:31,222
+Argh!
+
+1289
+01:28:32,682 --> 01:28:34,433
+Come on, let's go.
+Come on, everybody.
+
+1290
+01:28:34,559 --> 01:28:37,061
+- Get your hands up. Come on.
+- Move along.
+
+1291
+01:28:37,187 --> 01:28:39,355
+- Let's go.
+- Get your hands above your head.
+
+1292
+01:28:39,481 --> 01:28:41,232
+Get your hands up there.
+Come on.
+
+1293
+01:28:41,358 --> 01:28:42,900
+- Let's go.
+- Get your hands up.
+
+1294
+01:28:43,026 --> 01:28:44,360
+Get your hands above your head.
+
+1295
+01:28:49,032 --> 01:28:50,783
+Kane!
+
+1296
+01:28:54,871 --> 01:28:55,871
+(Groans)
+
+1297
+01:29:39,457 --> 01:29:42,084
+- (Operator) 'Number, please.'
+- Calumet 6098.
+
+1298
+01:29:43,378 --> 01:29:46,422
+- 'Hotel Lexington.'
+- Put me through to Capone's rooms.
+
+1299
+01:29:46,548 --> 01:29:47,882
+'Just a moment, sir.'
+
+1300
+01:29:48,008 --> 01:29:51,093
+- Yeah?
+- Let me talk to Capone.
+
+1301
+01:29:51,219 --> 01:29:54,221
+- Who's calling?
+- Just tell him Elliot Ness.
+
+1302
+01:29:55,307 --> 01:29:57,641
+Mario, Chiama Al.
+Telefono, è importante.
+
+1303
+01:29:57,767 --> 01:29:59,226
+Presto, presto!
+
+1304
+01:30:00,145 --> 01:30:03,480
+Al? Telefono. Al, telefono!
+
+1305
+01:30:03,607 --> 01:30:06,233
+- Ma che fai?
+- Al telefono, è importante.
+
+1306
+01:30:08,612 --> 01:30:10,362
+It's Elliot Ness.
+
+1307
+01:30:13,325 --> 01:30:14,700
+This is AI Capone.
+
+1308
+01:30:14,826 --> 01:30:17,536
+I just knocked over your new brewery
+down at the stockyards.
+
+1309
+01:30:17,662 --> 01:30:18,579
+What?
+
+1310
+01:30:18,705 --> 01:30:21,498
+Look out your window
+at exactly eleven o’clock tomorrow morning.
+
+1311
+01:30:21,625 --> 01:30:22,583
+What is this?
+
+1312
+01:30:22,709 --> 01:30:25,544
+Take a look and see what we got for you,
+Snorky.
+
+1313
+01:30:25,670 --> 01:30:27,588
+What are you talking about?
+
+1314
+01:30:27,714 --> 01:30:30,257
+You talk straight,
+or I'll jam this phone down your throat!
+
+1315
+01:30:33,470 --> 01:30:34,762
+What are you gonna do?
+
+1316
+01:30:35,972 --> 01:30:39,099
+I'll make sure AI Capone
+never forgets Joe Fuselli.
+
+1317
+01:31:00,080 --> 01:31:02,498
+- Anything?
+- Not a thing.
+
+1318
+01:31:02,624 --> 01:31:04,041
+It's some bluff, AI.
+
+1319
+01:31:04,167 --> 01:31:06,126
+That's all it is.
+A guy shooting off his mouth.
+
+1320
+01:31:06,252 --> 01:31:07,962
+- Yeah?
+- That's all, AI.
+
+1321
+01:31:08,088 --> 01:31:09,838
+What about the brewery?
+
+1322
+01:31:09,965 --> 01:31:13,717
+- Maybe we gotta set up out of town.
+- Where?
+
+1323
+01:31:13,843 --> 01:31:14,927
+- Well...
+- Where?
+
+1324
+01:31:15,053 --> 01:31:16,345
+Maybe we can go over the line.
+
+1325
+01:31:16,471 --> 01:31:18,263
+- Over what line?
+- Into Wisconsin.
+
+1326
+01:31:18,390 --> 01:31:19,807
+Wisconsin?
+
+1327
+01:31:19,933 --> 01:31:21,183
+Yeah, Wisconsin may be OK.
+
+1328
+01:31:21,309 --> 01:31:23,811
+OK? You talk, but they're closing me down.
+And you talk...
+
+1329
+01:31:23,937 --> 01:31:25,396
+AI!
+
+1330
+01:31:30,110 --> 01:31:31,610
+Look at this. Look.
+
+1331
+01:31:37,033 --> 01:31:40,202
+(Narrator) 'At exactly eleven o’clock,
+the funeral procession of Joe Fuselli
+
+1332
+01:31:40,328 --> 01:31:43,956
+'passed under the windows
+of AI Capone's suite in the Lexington Hotel.'
+
+1333
+01:31:46,209 --> 01:31:49,503
+(Laughs)
+It's just one more funeral.
+
+1334
+01:32:18,575 --> 01:32:20,868
+They're our beer trucks.
+
+1335
+01:32:20,994 --> 01:32:22,870
+(Narrator) 'Following the hearse
+was truck after truck
+
+1336
+01:32:22,996 --> 01:32:27,666
+'confiscated by Elliot Ness and his squad
+in their raids on the Capone breweries.
+
+1337
+01:32:27,792 --> 01:32:30,961
+'These trucks, which might have been
+delivering Capone beer,
+
+1338
+01:32:31,087 --> 01:32:34,715
+'were instead delivering
+a message of defiance to AI Capone.
+
+1339
+01:32:35,341 --> 01:32:38,010
+'With Capone's power to frighten
+and corrupt diminishing,
+
+1340
+01:32:38,136 --> 01:32:40,137
+'people began to give information.
+
+1341
+01:32:40,263 --> 01:32:42,139
+'With the assistance of Elliot Ness,
+
+1342
+01:32:42,265 --> 01:32:44,600
+'U.S. Treasury agents
+started to put together
+
+1343
+01:32:44,726 --> 01:32:48,062
+'the mosaic of an income tax evasion case
+against AI Capone.'
+
+1344
+01:32:48,188 --> 01:32:50,689
+- Elliot, we've got AI Capone.
+- Are you sure?
+
+1345
+01:32:50,815 --> 01:32:53,108
+We've been working on this
+night and day for the last two weeks.
+
+1346
+01:32:53,234 --> 01:32:55,944
+- He's gonna plead guilty.
+- Why isn't he fighting?
+
+1347
+01:32:56,071 --> 01:32:59,073
+My office is entering
+a recommendation for leniency.
+
+1348
+01:32:59,991 --> 01:33:01,283
+You're kidding!
+
+1349
+01:33:01,409 --> 01:33:04,453
+The arrangement's been worked out
+with the approval of the Attorney General.
+
+1350
+01:33:06,122 --> 01:33:08,290
+Leniency for Capone?
+
+1351
+01:33:08,416 --> 01:33:10,167
+Our AI Capone?
+
+1352
+01:33:11,086 --> 01:33:13,462
+Is that what we've been
+knocking ourselves out for?
+
+1353
+01:33:13,588 --> 01:33:15,255
+To let AI Capone off?
+
+1354
+01:33:15,381 --> 01:33:18,425
+- Look, Elliot...
+- Is that why Joe Fuselli got killed? For what?
+
+1355
+01:33:18,551 --> 01:33:20,511
+Advertise a man can get away
+with murder?
+
+1356
+01:33:21,012 --> 01:33:22,930
+How do you think I feel about this?
+
+1357
+01:33:23,056 --> 01:33:24,640
+I came to put Capone away for good.
+
+1358
+01:33:24,766 --> 01:33:26,475
+But this is all we've got,
+it's the best we can do.
+
+1359
+01:33:26,601 --> 01:33:29,228
+- The records, the data...
+- Not enough to make sure of conviction.
+
+1360
+01:33:29,354 --> 01:33:32,147
+If we try Capone and we don't convict him,
+we can't try him again.
+
+1361
+01:33:32,273 --> 01:33:33,899
+It's too great a risk.
+
+1362
+01:33:34,025 --> 01:33:37,694
+If we put him away for a while, then maybe
+we can finish the job of wrecking him.
+
+1363
+01:33:37,821 --> 01:33:39,655
+We've got to take
+what we can get, Elliot.
+
+1364
+01:33:39,781 --> 01:33:41,240
+Just what do we get?
+
+1365
+01:33:42,158 --> 01:33:43,242
+Two years.
+
+1366
+01:33:43,368 --> 01:33:44,493
+Two years!
+
+1367
+01:33:44,619 --> 01:33:48,205
+Well, that's the best we could bargain for.
+I feel sick about it, Elliot.
+
+1368
+01:33:48,331 --> 01:33:52,543
+Two years for Capone.
+After all this, two years.
+
+1369
+01:33:53,378 --> 01:33:55,003
+What a joke.
+
+1370
+01:33:55,797 --> 01:33:58,215
+What a lousy, lousy joke.
+
+1371
+01:34:02,137 --> 01:34:04,388
+(Narrator)
+'Finally, on July 30th, 1931 ,
+
+1372
+01:34:04,514 --> 01:34:07,891
+'AI Capone entered a plea of guilty
+to income tax evasion charges
+
+1373
+01:34:08,017 --> 01:34:12,104
+'in the Federal District Court presided over
+by Judge James H. Wilkerson.'
+
+1374
+01:34:12,230 --> 01:34:14,356
+Will the two counsels
+approach the bench, please?
+
+1375
+01:34:21,114 --> 01:34:24,116
+A plea of guilty
+is a full admission of guilt.
+
+1376
+01:34:24,242 --> 01:34:28,453
+If the defendant asks for leniency
+by throwing himself on the mercy of this court,
+
+1377
+01:34:28,580 --> 01:34:32,666
+he must be prepared to answer
+all proper questions put to him by the court.
+
+1378
+01:34:32,792 --> 01:34:36,003
+If the defendant
+expects leniency of this court,
+
+1379
+01:34:36,129 --> 01:34:40,465
+he must take the witness stand and testify
+on what grounds he expects leniency.
+
+1380
+01:34:40,592 --> 01:34:43,427
+The Federal District Attorney said
+that if a plea of guilty was entered,
+
+1381
+01:34:43,553 --> 01:34:46,680
+he would make a commitment
+about the length of the sentence.
+
+1382
+01:34:47,265 --> 01:34:49,349
+I will decide the length of sentence.
+
+1383
+01:34:49,893 --> 01:34:53,061
+- No prior agreement binds this court.
+- (Bangs gavel)
+
+1384
+01:35:03,615 --> 01:35:06,533
+- (Whispering)
+- We'll stand trial.
+
+1385
+01:35:08,369 --> 01:35:10,037
+(Judge bangs gavel)
+
+1386
+01:35:10,914 --> 01:35:13,332
+The defendant
+withdraws his plea of guilty.
+
+1387
+01:35:13,458 --> 01:35:15,250
+He will stand trial on charges.
+
+1388
+01:35:22,800 --> 01:35:25,260
+The defendant
+will approach the bench, please.
+
+1389
+01:35:26,930 --> 01:35:30,265
+(Narrator) 'After a trial lasting three months,
+AI Capone was convicted.
+
+1390
+01:35:30,391 --> 01:35:32,517
+'On November 24th, 1931 ,
+
+1391
+01:35:32,644 --> 01:35:35,062
+'Judge James H. Wilkerson
+pronounced sentence.'
+
+1392
+01:35:37,273 --> 01:35:39,066
+It is the decision of this court
+
+1393
+01:35:39,192 --> 01:35:44,196
+that the defendant, Alphonse Capone,
+shall pay a fine of $56,000...
+
+1394
+01:35:44,322 --> 01:35:45,530
+(Crowd murmuring)
+
+1395
+01:35:46,241 --> 01:35:51,411
+...and that he shall serve a term
+of 1 1 years in the federal penitentiaries.
+
+1396
+01:35:51,537 --> 01:35:54,873
+He is forthwith remanded to the custody
+of the United States Marshal.
+
+1397
+01:36:14,394 --> 01:36:15,519
+Stand back.
+
+1398
+01:36:15,645 --> 01:36:17,729
+(Narrator) 'After exhausting
+every legal delay,
+
+1399
+01:36:17,855 --> 01:36:19,982
+'on May 5th, 1932,
+
+1400
+01:36:20,108 --> 01:36:23,485
+'AI Capone was taken from Chicago
+to start serving his sentence.
+
+1401
+01:36:40,086 --> 01:36:44,298
+'Between Elliot Ness and AI Capone,
+no word had ever been exchanged
+
+1402
+01:36:44,424 --> 01:36:48,635
+'except for the brief telephone conversation
+preceding the funeral of Joe Fuselli.
+
+1403
+01:36:48,761 --> 01:36:53,390
+'Ironically enough, absorbed with the thought
+of the long years in prison before him,
+
+1404
+01:36:53,516 --> 01:36:57,185
+'AI Capone did not recognize
+the man staring at him.
+
+1405
+01:37:05,194 --> 01:37:08,572
+'Ness was occupied with the thought
+of the long years of struggle ahead
+
+1406
+01:37:08,698 --> 01:37:11,742
+'to destroy the remnants
+of the Capone organization.
+
+1407
+01:37:14,370 --> 01:37:18,999
+'And so AI Capone disappeared from view
+to be replaced by other racketeers,
+
+1408
+01:37:19,125 --> 01:37:21,626
+'more subtle, even more destructive.
+
+1409
+01:37:22,628 --> 01:37:25,047
+'Against this new breed of racketeer,
+
+1410
+01:37:25,173 --> 01:37:28,300
+'who are managing to steal,
+extort, divert and pervert,
+
+1411
+01:37:28,426 --> 01:37:32,179
+'almost ten percent of the income
+of the people of the United States,
+
+1412
+01:37:32,305 --> 01:37:35,849
+'Elliot Ness fought
+until his death in 1957.
+
+1413
+01:37:36,976 --> 01:37:39,102
+'AI Capone is dead.
+
+1414
+01:37:39,228 --> 01:37:41,271
+'Elliot Ness is dead.
+
+1415
+01:37:41,397 --> 01:37:44,941
+'But the struggle between
+the Capones and the Nesses,
+
+1416
+01:37:45,068 --> 01:37:49,029
+'witnessed by a public
+that remains dangerously indifferent,
+
+1417
+01:37:49,155 --> 01:37:51,239
+'goes on and on.'
+
